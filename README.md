@@ -8,10 +8,10 @@ Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slide
  
  Setup gitPages --> settings-->pages-->none to master-->save--> copy the link and replace below.
 
-Demo of this Github Markdown can be viewed at this GitPages site (replace this link with your Gitpages link) [https://hpssjellis.github.io/javascript-on-markdown/](https://hpssjellis.github.io/javascript-on-markdown/)
+Demo of this Github Markdown can be viewed at this GitPages site (replace this link with your Gitpages link) [https://hpssjellis.github.io/jeremy-ellis-5-min-tinyML-2022/](https://hpssjellis.github.io/jeremy-ellis-5-min-tinyML-2022/)
 
 
-This Github Repository (replace this link with your Repository Link) [https://github.com/hpssjellis/javascript-on-markdown](https://github.com/hpssjellis/javascript-on-markdown)
+This Github Repository (replace this link with your Repository Link) [https://github.com/hpssjellis/jeremy-ellis-5-min-tinyML-2022](https://github.com/hpssjellis/jeremy-ellis-5-min-tinyML-2022)
 
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
