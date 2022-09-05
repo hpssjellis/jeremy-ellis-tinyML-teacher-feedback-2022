@@ -1,5 +1,5 @@
 
-### Jeremy Ellis tinyML Sept 2022 5 min Lightning Talk Pech Kucha 
+### Jeremy Ellis tinyML Sept 2022 5 min Lightning Talk Pech Kucha Format using a Github README.md file
 
 
 ##### version 0.6.4-86
@@ -13,6 +13,7 @@ Demo of this Github Markdown can be viewed at this GitPages site (replace this l
 
 This Github Repository (replace this link with your Repository Link) [https://github.com/hpssjellis/jeremy-ellis-5-min-tinyML-2022](https://github.com/hpssjellis/jeremy-ellis-5-min-tinyML-2022)
 
+ To make your own version of this webApp just copy this readme file in your own Gitpages activated repository and link to the readme.md file as a webpage.
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
 
@@ -120,7 +121,10 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
   
  </div>
 
-#### 1
+#### 1 TEST
+ 
+ 
+ test test test
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
