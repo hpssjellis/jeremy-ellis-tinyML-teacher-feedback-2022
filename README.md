@@ -369,6 +369,11 @@ Template for this from <a href="https://github.com/hpssjellis/pecha-kucha-lightn
 ### Note when looking at the markdown none of the javascript buttons appear, you must go to your Gitpages Demo Link!
 A few Javascript abilites do not work, such as hiding the code. So all the Javascript not in buttons is below. 
 
+Note: 
+1. Old ML presentation [here](https://hpssjellis.github.io/my-robotics-machine-learning-teaching-lightning-talk-pecha-kucha/)
+2. Old TensorflowJS presentation [here](https://hpssjellis.github.io/lightening-talk-Pecha-Kucha-tensorflowjs/)
+3. Pecha Kucha template [here](https://github.com/hpssjellis/pecha-kucha-lightning-talks-template)
+
 
 
 <script>
