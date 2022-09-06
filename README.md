@@ -2,7 +2,7 @@
 ### Jeremy Ellis tinyML Sept 2022 5 min Lightning Talk Pech Kucha Format using a Github README.md file
 
 
-##### version 0.6.4-86
+##### version 0.6.5-87
 
 Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
  
