@@ -120,6 +120,45 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 }">  
   
  </div>
+ 
+ 
+#### 1
+# Intro: TinyML Sept 2022 5 min Lightning Talk in Pech Kucha Format
+
+I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta</a>
+Anything I understand I can teach to a 10 year old! The problem is getting me to understand it! 
+I am still a bit stuck on Quantum Computing, my Github<a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here</a>
+
+I strongly feel undergrads of all diciplines should have some form of hands on Machine Learning and Robotics before graduation.    
+<img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="400" />  
+ 
+ 
+<br><br><br><br><br>
+<hr>
+
+
+#### 2
+# TinyML: Multipler constraints
+
+We wish tinyML hardware cost less than a $1, did all training and analysis clientside, had 5G connectivity, ran on a coin battery for multiple years and had the computing power of a TPU.
+The reality is we have constraints: 
+ 
+<br><br><br><br<br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br><br><br><br>
+<hr><br><br>
+<hr>
+ 
+ 
+ # Old stuff below. still here in case I need something from it
 
 #### 1
 # Intro: Lightning Talks in Pecha Kucha Format
