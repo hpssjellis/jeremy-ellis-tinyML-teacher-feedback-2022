@@ -138,10 +138,81 @@ I strongly feel undergrads of all diciplines should have some form of hands on M
 
 
 #### 2
-# TinyML: Multipler constraints
+# TinyML: Multiple constraints
 
-We wish tinyML hardware cost less than a $1, did all training and analysis clientside, had 5G connectivity, ran on a coin battery for multiple years and had the computing power of a TPU.
-The reality is we have constraints: 
+We wish tinyML hardware cost less than a $1, did all training and analysis client-side, had 5G connectivity, ran on a coin battery for multiple years and had the computing power of a TPU, but that dream is not a reality.
+The reality is we have constraints: In 2022 these look like:
+ 
+ For hardware we use the $60.00 USD Arduino ML Kit (Arduino Nano 33 BLE Sense with a OV7675 Camera)  
+ Which is a 3.3V nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256KB SRAM  
+ For connectivity we can use BLE  
+ For Machine Learning simplicity and cloud training we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a>  
+ Which is fairly easy to do motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
+ 
+ 
+ #### 3
+ # What next! What can students do once they have done the basics?
+ 
+ 
+ #### 4
+ # Same Hardware and using edgeImpulse
+ 
+ #### 5
+ # Same hardware but using ...
+ 
+ #### 6
+ # More expensive hardware
+ 
+ 
+ #### 7
+ # The Arduino PortentaH7 or PortentaX8
+ 
+ 
+ #### 8 
+ # Cheaper Hardware
+ 
+ 
+ 
+ 
+ #### 9 
+ # A different approach
+ 
+ 
+ 
+ #### 10
+ # Summary
+ 
+ 
+ 
+ #### 11
+ # Final Words
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 <br><br><br><br<br><br><br><br><br>
 <hr><br><br><br><br><br>
