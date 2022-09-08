@@ -274,9 +274,11 @@ Use TensorflowJS and WebSerial. Getting EdgeImpulse models to tensorflwJS is a b
  
 TensorflowLIte
 
-My old version of TensorflowLite <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow"> here</a>
+My old version of TensorflowLite adapted for the Portenta<a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow"> here</a>. Note: The Arduino_TensorflowLite library seems to have disappeared, so here is a backup in zip format that can easily be installed with the Arduino library zip upload. <a href="Arduino_TensorFlowLite.zip">Arduino_TensorFlowLite.zip</a>
  
 ALFES on board ML for Arduino my video <a href="https://youtu.be/SJk2q1katgw">here</a>ALFES Github <a href="https://github.com/Fraunhofer-IMS/AIfES_for_Arduino"> here</a>
+
+Just saw <a href="https://github.com/Bobingstern/MicroFlow">MicroFlow</a> I no nothing about it.
  
 
  
