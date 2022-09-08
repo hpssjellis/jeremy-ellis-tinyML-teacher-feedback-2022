@@ -145,6 +145,12 @@ I turn 60 next year and will retire from teaching in a few years. About 1976 whe
 
 I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a>
 
+My first successful ov7670 image
+![image](https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png)
+
+In Sep 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that allowed the making of the TinyML kit.
+![image](https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png)
+
 
 #### 2
 # TinyML: Multiple constraints (cost, computer power, electrical power, data security, connectivity...)
@@ -160,7 +166,7 @@ The reality is we have constraints: In 2022 these look like:
  
  
  #### 3
- # What next! What can students do once they have done the basics?
+ # Teaching issues and frustrations over the last few years.
  
  
  #### 4
