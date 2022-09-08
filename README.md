@@ -145,7 +145,7 @@ I turn 60 next year and will retire from teaching in a few years. About 1976 whe
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
-Is this the first computer generated 3D printed object?
+Is this the first computer generated 3D printed object?  
 <img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="400" /> 
 
 
