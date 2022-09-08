@@ -127,6 +127,8 @@ I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a
 I have a gift, anything I understand I can teach to a 10 year old! The problem is getting me to understand it! 
 I am still a bit stuck on Quantum Computing, my Github about it is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here</a>
 
+I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
+
 I strongly feel undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately simplification often results in a loss of understanding and the ability to create new methods. So the challenge is: how to simplifiy ML without losing computing flexibility. 
  
  
@@ -139,20 +141,41 @@ I strongly feel undergrads of all disciplines should have some form of hands on 
 
 <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="400" /> 
 
-I turn 60 next year and will retire from teaching in a few years. About 1976 when I was in grade 8 I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
+I turn 60 next year and will retire from teaching in a few years. About 1976 when I was in grade 8 I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
 
-![image](https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png)
+Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
+
+Is this the first computer generated 3D printed object?
+<img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="400" /> 
+
+
 
 I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a>
 
-My first successful ov7670 image
-![image](https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png)
+#### 3
+Arduino ML kit history
 
-In Sep 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that allowed the making of the TinyML kit.
-![image](https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png)
+A few years ago my students chose to work with the Nano-33-ble-sense and we purchased a $10 ov7670 camera to go with it.  
+This is my first successful ov7670 image
+
+<img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="400" /> 
 
 
-#### 2
+In Sep 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe allowed the Arduino TinyML kit to be successful.
+
+My first clear image from the OV7670 camera inputed into EdgeImpulse  
+<img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="400" /> 
+
+
+
+#### 4
+# High School, Grad School partnerships
+
+I would be interested in partnering up with grad students trying to simplify machine learning. I can provide students to test their ideas and possibly give some feedback about the steps that were most confusing.
+
+
+
+#### 5
 # TinyML: Multiple constraints (cost, computer power, electrical power, data security, connectivity...)
 
 We wish tinyML hardware cost less than a $1, did all training and analysis client-side, had 5G connectivity, ran on a coin battery for multiple years and had the computing power of a TPU, but that dream is not a reality.
@@ -165,23 +188,42 @@ The reality is we have constraints: In 2022 these look like:
  Which is fairly easy to do motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
  
  
- #### 3
- # Teaching issues and frustrations over the last few years.
- 
- 
- #### 4
- # Same Hardware and using edgeImpulse
- 
  #### 5
- # Same hardware but using ...
+ # Teaching Frustration, not enough pins!
  
- #### 6
- # More expensive hardware
+This is not necessaryily to do with machine learning but whenever students start working on their own projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
+ 
+ # My solution: 
+ A. use the Arduino Portenta potentially 160 pins
+ <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="400" /> 
+
+ Note: I am working on a pcb to allow access to all 160 pins witout using the Arduino Breakout Board.
+ 
+ B. Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
+ 
+4 x $5 XIAO all running tensorflow Sine Hello World program 
+<img src="https://user-images.githubusercontent.com/5605614/189020637-6917686b-3847-427f-87ee-94a82ee7a398.png" width="400" /> 
+
+
+ 
+#### 6
+# Teaching Frustration, low power connectivity
+For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
+Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
+ 
+# My Solution
+The PortentaH7 LoRa Vision Shield
+I think LoRa and LoRaWan connectivity makes a lot of sense for low power applications. 
+Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and adafruit.io 
  
  
  #### 7
- # The Arduino PortentaH7 or PortentaX8
- 
+# Teaching Frustration, High Cost
+Eventually a set of very cheap microcontrollers will be available hopefully with LoRaWan capability, camera, sound and motion, but presently the main solution is to
+make your own PCB. Many of my students both 3D Print and computer animate. We found several students quickly understood the main issues around PCB development from this one simple video for JLCPCB and easyEDA  <a href="https://github.com/hpssjellis/maker100#31">here</a>
+
+Excellent video below  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjPNYMRA0m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  #### 8 
  # Cheaper Hardware
