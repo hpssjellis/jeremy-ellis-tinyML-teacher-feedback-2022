@@ -1,17 +1,15 @@
 
-### Jeremy Ellis tinyML Sept 2022 5 min Lightning Talk Pech Kucha Format using a Github README.md file
+### jeremy-ellis-tinyML-teacher-feedback-2022
 
 
-##### version 0.6.5-87
 
-Fork this repo, fill in your markdown and <html> for the 15 slides (max 20 slides), record your presentation and save it as ```recorded-talk.m4a``` (or change the code to reflect the new name.)
- 
- Setup gitPages --> settings-->pages-->none to master-->save--> copy the link and replace below.
-
-Demo of this Github Markdown can be viewed at this GitPages site (replace this link with your Gitpages link) [https://hpssjellis.github.io/jeremy-ellis-5-min-tinyML-2022/](https://hpssjellis.github.io/jeremy-ellis-5-min-tinyML-2022/)
+##### version 0.0.1-1
 
 
-This Github Repository (replace this link with your Repository Link) [https://github.com/hpssjellis/jeremy-ellis-5-min-tinyML-2022](https://github.com/hpssjellis/jeremy-ellis-5-min-tinyML-2022)
+Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
+
+
+This Github Repository at  [https://github.com/hpssjellis/jeremy-ellis-tinyML-teacher-feedback-2022](https://github.com/hpssjellis/jeremy-ellis-tinyML-teacher-feedback-2022)
 
  To make your own version of this webApp just copy this readme file in your own Gitpages activated repository and link to the readme.md file as a webpage.
 
