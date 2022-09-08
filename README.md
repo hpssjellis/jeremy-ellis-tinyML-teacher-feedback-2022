@@ -219,20 +219,53 @@ Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a
  
  #### 7
 # Teaching Frustration, High Cost
-Eventually a set of very cheap microcontrollers will be available hopefully with LoRaWan capability, camera, sound and motion, but presently the main solution is to
-make your own PCB. Many of my students both 3D Print and computer animate. We found several students quickly understood the main issues around PCB development from this one simple video for JLCPCB and easyEDA  <a href="https://github.com/hpssjellis/maker100#31">here</a>
 
-Excellent video below  
+
+Eventually a set of very cheap microcontrollers will be available hopefully with LoRaWan capability, camera, sound and motion, but presently the main solution is to
+make your own PCB.
+
+
+
+# My Solution #1
+Many of my students both 3D Print and computer animate. We found several students quickly understood the main issues around PCB development from this one simple video for JLCPCB and easyEDA  <a href="https://github.com/hpssjellis/maker100#31">here</a> for which the cost is about $35 for 5 boards and takes about 10 days to deliver.
+
+Excellent video on making a PCB 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjPNYMRA0m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution for at school PCB production.
+
+
+# My Solution #2
+This is only cheaper since most students have a cell phone! Do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller, even the $5 Seeedstudio XIAO. This would take a lot of work, but sensors could upload to a model and actuators could be controlled by a model. The advantage of this is you get the much more computer power of the cell phone with the microcontroller allowing sensors and actuators. Has lots of teaching portential.
+
+
+#### 8 
+# Teaching Frustration, Hard to connect Sensors to EdgeImpulse
  
- #### 8 
- # Cheaper Hardware
- 
- 
+#My Solution
+
+Spend some time making connecting sensors to edge Impulse easy and give lots of examples. This is my Maker101 repository folder link <a href="https://github.com/hpssjellis/maker101/tree/main/ml-kit-nano-33-ble-sense-examples">here</a>
  
  
  #### 9 
- # A different approach
+# Teaching Frustration, Hard to teach Keras Machine Learning using EdgeImpulse
+Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classfiy a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
+
+# My Solution A
+Here is a link to my maker101 draft repository with some ideas on this topic <a href="https://github.com/hpssjellis/maker101/tree/main/edgeimpulse-keras-expert-mode-for-sensors"> here</a>
+ 
+# My Solution B
+Use TensorflowJS and WebSerial. Getting EdgeImpulse models to tensorflwJS is a bit confusing. It would be nice if the data could be exported and loaded directly onto the browser.
+
+# Other Solutions
+ 
+TensorflowLIte
+
+My old version of TensorflowLite <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow"> here</a>
+ 
+ALFES on board ML for Arduino my video <a href="https://youtu.be/SJk2q1katgw">here</a>ALFES Github <a href="https://github.com/Fraunhofer-IMS/AIfES_for_Arduino"> here</a>
+ 
+
  
  
  
@@ -241,9 +274,7 @@ Excellent video below
  
  
  
- #### 11
- # Final Words
- 
+
  
  
  
