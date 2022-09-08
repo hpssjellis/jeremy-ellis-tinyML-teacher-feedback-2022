@@ -217,7 +217,7 @@ I think LoRa and LoRaWan connectivity makes a lot of sense for low power applica
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and adafruit.io 
  
  
- #### 7
+#### 7
 # Teaching Frustration, High Cost
 
 
@@ -239,6 +239,11 @@ Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible 
 This is only cheaper since most students have a cell phone! Do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller, even the $5 Seeedstudio XIAO. This would take a lot of work, but sensors could upload to a model and actuators could be controlled by a model. The advantage of this is you get the much more computer power of the cell phone with the microcontroller allowing sensors and actuators. Has lots of teaching portential.
 
 
+
+
+
+
+
 #### 8 
 # Teaching Frustration, Hard to connect Sensors to EdgeImpulse
  
@@ -247,7 +252,14 @@ This is only cheaper since most students have a cell phone! Do the machine learn
 Spend some time making connecting sensors to edge Impulse easy and give lots of examples. This is my Maker101 repository folder link <a href="https://github.com/hpssjellis/maker101/tree/main/ml-kit-nano-33-ble-sense-examples">here</a>
  
  
- #### 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#### 9 
 # Teaching Frustration, Hard to teach Keras Machine Learning using EdgeImpulse
 Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classfiy a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
 
@@ -266,6 +278,9 @@ My old version of TensorflowLite <a href="https://github.com/hpssjellis/my-examp
 ALFES on board ML for Arduino my video <a href="https://youtu.be/SJk2q1katgw">here</a>ALFES Github <a href="https://github.com/Fraunhofer-IMS/AIfES_for_Arduino"> here</a>
  
 
+ 
+ 
+ 
  
  
  
