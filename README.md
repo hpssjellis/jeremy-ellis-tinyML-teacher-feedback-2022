@@ -137,11 +137,11 @@ I strongly feel undergrads of all disciplines should have some form of hands on 
 <hr>
 
 #### 2 
-# My High SChool Teaching Background
+# My High School Teaching Background
 
 <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="400" /> 
 
-I turn 60 next year and will retire from teaching in a few years. About 1976 when I was in grade 8 I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
+About 1976 when I was in grade 8 I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
@@ -151,6 +151,7 @@ Is this the first computer generated 3D printed object?
 
 
 I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a>
+I turn 60 next year and will retire from teaching in a few years (I will probably continue to work on tech solutions after retiring). 
 
 #### 3
 Arduino ML kit history
