@@ -199,11 +199,17 @@ This is not necessaryily to do with machine learning but whenever students start
  
  # My solution 1: 
  A. use the Arduino Portenta with 28 pins and potentially up to 160 pins
- <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="400" /> 
+ <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="200" /> <img src="portenta320x320-first.gif" width="200" /> 
  
- <img src="portenta320x320-first.gif" width="400" /> 
+  Note: I am working on a pcb to allow access to all 160 pins witout using the Arduino Breakout Board.
+  
+ <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="200" />  <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="200" /> 
+
  
- Note: I am working on a pcb to allow access to all 160 pins witout using the Arduino Breakout Board.
+ 
+ <img src="https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg" width="200" /> 
+ 
+
  
  # My solution 2: 
  Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
@@ -299,16 +305,6 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow">MicroFlow</a> I no n
  
  
 
- 
- <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="400" /> 
- 
-
- 
- <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="400" /> 
-
- 
- 
- <img src="https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg" width="400" /> 
 
  
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="400" /> 
