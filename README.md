@@ -296,24 +296,31 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow">MicroFlow</a> I no n
  
  
  
+ ![serial-pcb](https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png)
+
+ 
+ 
+ ![pcb-portenta-testing-2](https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png)
+
  
  
  
+ ![20220506_090441](https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg)
+
  
  
+ ![20220524_140642](https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg)
+
  
  
+ ![20220525_135629](https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg)
+
  
+ ![20220525_135648](https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg)
+
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ ![20220430_101327](https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg)
+
  
  
  
