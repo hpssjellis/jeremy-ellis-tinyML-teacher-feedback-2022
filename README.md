@@ -122,7 +122,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 <hr>
  
 #### 1
-# Intro: jeremy-ellis-tinyML-teacher-feedback-2022
+# Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022
 
 I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta</a>
 I have a gift, anything I understand I can teach to a 10 year old! The problem is getting me to understand it! 
