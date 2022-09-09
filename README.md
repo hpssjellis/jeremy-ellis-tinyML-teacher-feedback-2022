@@ -162,7 +162,7 @@ This is my first successful ov7670 image
 <img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="400" /> 
 
 
-In Sep 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe allowed the Arduino TinyML kit to be successful.
+In Sep 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
 
 My first clear image from the OV7670 camera inputed into EdgeImpulse  
 <img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="400" /> 
@@ -172,9 +172,10 @@ My first clear image from the OV7670 camera inputed into EdgeImpulse
 #### 4
 # High School, Grad School partnerships
 
-I would be interested in partnering up with grad students trying to simplify machine learning. I can provide students to test their ideas and possibly give some feedback about the steps that were most confusing.
+I would be interested in partnering up with grad students trying to simplify machine learning. I can provide students to test their ideas and possibly give some feedback about the steps that were most confusing. In this presentation I will suggest multiple paths for advanced use of TinyML. I will not be research all of these ideas but would help support others interested in them.
 
-
+<br><br><br><br><br><br><br><br>
+<hr>
 
 #### 5
 # TinyML: Multiple constraints (cost, computer power, electrical power, data security, connectivity...)
@@ -192,23 +193,23 @@ The reality is we have constraints: In 2022 these look like:
  #### 5
  # Teaching Frustration, not enough pins!
  
-This is not necessaryily to do with machine learning but whenever students start working on their own projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
+This is not necessaryily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
  # My solution: 
- A. use the Arduino Portenta potentially 160 pins
+ A. use the Arduino Portenta with 28 pins and potentially up to 160 pins
  <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="400" /> 
 
  Note: I am working on a pcb to allow access to all 160 pins witout using the Arduino Breakout Board.
  
  B. Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
  
-4 x $5 XIAO all running tensorflow Sine Hello World program 
+Example of 4 x $5 XIAO all running tensorflow Sine Hello World program 
 <img src="https://user-images.githubusercontent.com/5605614/189020637-6917686b-3847-427f-87ee-94a82ee7a398.png" width="400" /> 
 
 
  
 #### 6
-# Teaching Frustration, low power connectivity
+# Teaching Frustration, BLE low power connectivity
 For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
  
@@ -294,32 +295,32 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow">MicroFlow</a> I no n
  
 
  
- 
+ <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="400" /> 
  
  ![serial-pcb](https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png)
 
  
- 
+ <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="400" /> 
  ![pcb-portenta-testing-2](https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png)
 
  
  
- 
+ <img src="https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg" width="400" /> 
  ![20220506_090441](https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg)
 
  
- 
+ <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="400" /> 
  ![20220524_140642](https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg)
 
  
- 
+ <img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="400" /> 
  ![20220525_135629](https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg)
 
- 
+ <img src="https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg" width="400" /> 
  ![20220525_135648](https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg)
 
- 
- ![20220430_101327](https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg)
+ <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="400" /> 
+
 
  
  
