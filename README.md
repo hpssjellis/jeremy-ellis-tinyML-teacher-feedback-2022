@@ -197,7 +197,7 @@ The reality is we have constraints: In 2022 these look like:
  
 This is not necessaryily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
- # My solution: 
+ # My solution 1: 
  A. use the Arduino Portenta with 28 pins and potentially up to 160 pins
  <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="400" /> 
  
@@ -205,7 +205,8 @@ This is not necessaryily to do with machine learning but whenever students start
  
  Note: I am working on a pcb to allow access to all 160 pins witout using the Arduino Breakout Board.
  
- B. Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
+ # My solution 2: 
+ Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
  
 Example of 4 x $5 XIAO all running tensorflow Sine Hello World program 
 <img src="https://user-images.githubusercontent.com/5605614/189020637-6917686b-3847-427f-87ee-94a82ee7a398.png" width="400" /> 
@@ -217,7 +218,7 @@ Example of 4 x $5 XIAO all running tensorflow Sine Hello World program
 For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
  
-# My Solution
+# My Solution 1
 The PortentaH7 LoRa Vision Shield
 I think LoRa and LoRaWan connectivity makes a lot of sense for low power applications. 
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and adafruit.io 
@@ -269,10 +270,10 @@ Spend some time making connecting sensors to edge Impulse easy and give lots of 
 # Teaching Frustration, Hard to teach Keras Machine Learning using EdgeImpulse
 Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classfiy a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
 
-# My Solution A
+# My Solution 1
 Here is a link to my maker101 draft repository with some ideas on this topic <a href="https://github.com/hpssjellis/maker101/tree/main/edgeimpulse-keras-expert-mode-for-sensors"> here</a>
  
-# My Solution B
+# My Solution 2
 Use TensorflowJS and WebSerial. Getting EdgeImpulse models to tensorflwJS is a bit confusing. It would be nice if the data could be exported and loaded directly onto the browser.
 
 # Other Solutions
