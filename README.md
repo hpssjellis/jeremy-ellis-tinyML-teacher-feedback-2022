@@ -3,7 +3,7 @@
 
 
 
-##### version 0.0.2-2
+##### version 0.1.0-3
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -125,12 +125,12 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 # Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022
 
 I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta</a>
-I have a gift, anything I understand I can teach to a 10 year old! The problem is getting me to understand it! 
+I can teach anything complex that I understand to a 10 year old! The problem is getting me to understand it! 
 I am still a bit stuck on Quantum Computing, my Github about it is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here</a>
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
-I strongly feel undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately simplification often results in a loss of understanding and the ability to create new methods. So the challenge is: how to simplifiy ML without losing computing flexibility. 
+I strongly feel University Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately simplification often results in a loss of creative flexibility. So the challenge is: how to simplifiy ML without losing computing flexibility. 
  
  
  
@@ -142,16 +142,16 @@ I strongly feel undergrads of all disciplines should have some form of hands on 
 
 <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="200" /> 
 
-About 1976 when I was in grade 8 I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
+About 1976 when I was in grade 8 and I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
-Is this the first computer generated 3D printed object that I made in 2016?  
-<img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="400" /> 
+I possibly made the first ever fully computer generated 3D printable objectin 2016?  
+<img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="300" /> 
 
 
 
-I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a>
+I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a><br><br>
 I turn 60 next year and will retire from teaching in a few years (I will probably continue to work on tech solutions after retiring). 
 
 
