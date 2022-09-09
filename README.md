@@ -203,12 +203,12 @@ The reality is we have constraints: In 2022 these look like:
  
  <hr>
 
- #### 6
- # Teaching Frustration, not enough pins!
+#### 6
+# Teaching Frustration, not enough pins!
  
 This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
- # My solution 1 (Pins): <br>
+# My solution 1 (Pins): <br>
  A. use the Arduino PortentaH7 with 28 pins and potentially up to 160 pins<br>
  <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="200" /> <img src="portenta320x320-first.gif" width="200" /> 
  
@@ -222,7 +222,7 @@ This is not necessarily to do with machine learning but whenever students start 
  
 
  
-# My solution 2(Pins): <br>
+# My solution 2 (Pins): <br>
  Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
  
 Example of 4 x $5 XIAO all running tensorflow Sine Hello World program 
