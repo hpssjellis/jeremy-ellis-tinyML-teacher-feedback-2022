@@ -197,9 +197,9 @@ The reality is we have constraints: In 2022 these look like:
  
  For hardware we use the $60.00 USD Arduino ML Kit (Arduino Nano 33 BLE Sense with a OV7675 Camera)  
  Which is a 3.3V nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256KB SRAM  
- For connectivity we can use BLE  
+ For connectivity we can use BLE or Serial:UART/I2C/SPI 
  For Machine Learning simplicity and cloud training we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a>  
- Which is fairly easy to do motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
+ Which is fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
  
  <hr>
 
