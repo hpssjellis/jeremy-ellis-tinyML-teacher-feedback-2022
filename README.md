@@ -145,7 +145,7 @@ About 1976 when I was in grade 8 I taught myself how to computer program on a HP
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
-Is this the first computer generated 3D printed object?  
+Is this the first computer generated 3D printed object that I made in 2016?  
 <img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="400" /> 
 
 
@@ -154,7 +154,7 @@ I also did a lot of educational work with TensorflowJS <a href="https://hpssjell
 I turn 60 next year and will retire from teaching in a few years (I will probably continue to work on tech solutions after retiring). 
 
 #### 3
-Arduino ML kit history
+Nano 33 Ble Sense with a OV767x Camera
 
 A few years ago my students chose to work with the Nano-33-ble-sense and we purchased a $10 ov7670 camera to go with it.  
 This is my first successful ov7670 image
@@ -164,8 +164,8 @@ This is my first successful ov7670 image
 
 In Sep 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
 
-My first clear image from the OV7670 camera inputed into EdgeImpulse  
-<img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="400" /> 
+My first clear 48x48 image from the OV7670 camera inputed into EdgeImpulse  
+<img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="48" /> 
 
 
 
@@ -173,6 +173,8 @@ My first clear image from the OV7670 camera inputed into EdgeImpulse
 # High School, Grad School partnerships
 
 I would be interested in partnering up with grad students trying to simplify machine learning. I can provide students to test their ideas and possibly give some feedback about the steps that were most confusing. In this presentation I will suggest multiple paths for advanced use of TinyML. I will not be research all of these ideas but would help support others interested in them.
+
+
 
 <br><br><br><br><br><br><br><br>
 <hr>
