@@ -130,7 +130,7 @@ I am still a bit stuck on Quantum Computing, my Github about it is <a href="http
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
-I strongly feel University Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately simplification often results in a loss of creative flexibility. So the challenge is: how to simplifiy ML without losing computing flexibility. 
+I strongly feel University Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately, simplification often results in a loss of creative flexibility. So the challenge is: how to simplify ML without losing computing flexibility. 
  
  
  
@@ -142,11 +142,11 @@ I strongly feel University Undergrads of all disciplines should have some form o
 
 <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="200" /> 
 
-About 1976 when I was in grade 8 and I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
+About 1976 when I was in grade 8, and I taught myself how to computer program on a HP97 Calculator. Since then, I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990s (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
-I possibly made the first ever fully computer generated 3D printable objectin 2016?  
+I possibly made the first ever fully computer generated 3D printable object in 2016?  
 <img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="300" /> 
 
 
@@ -162,7 +162,7 @@ I turn 60 next year and will retire from teaching in a few years (I will probabl
 #### 3
 Nano 33 Ble Sense with a OV767x Camera
 
-A few years ago my students chose to work with the Nano-33-ble-sense and we purchased a $10 ov7670 camera to go with it.  
+A few years ago my students chose to work with the Nano-33-ble-sense, and we purchased a $10 ov7670 camera to go with it.  
 This is my first successful ov7670 image
 
 <img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="400" /> 
@@ -179,7 +179,7 @@ My first clear 48x48 image from the OV7670 camera inputed into EdgeImpulse
 #### 4
 # High School, Grad School partnerships
 
-I would be interested in partnering up with grad students trying to simplify machine learning. I can provide students to test their ideas and possibly give some feedback about the steps that were most confusing. In this presentation I will suggest multiple paths for advanced use of TinyML. I will not be research all of these ideas but would help support others interested in them.
+I would be interested in partnering up with grad students trying to simplify machine learning. I can provide students to test their ideas and possibly give some feedback about the steps that were most confusing. In this presentation, I will suggest multiple paths for advanced use of TinyML. I will not be able to research all of these ideas, but would help support others interested in them.
 
  
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="200" /><img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="200" /> 
@@ -195,9 +195,9 @@ I would be interested in partnering up with grad students trying to simplify mac
 We wish tinyML hardware cost less than a $1, did all training and analysis client-side, had 5G connectivity, ran on a coin battery for multiple years and had the computing power of a TPU, but that dream is not a reality.
 The reality is we have constraints: In 2022 these look like: 
  
- For hardware we use the $60.00 USD Arduino ML Kit (Arduino Nano 33 BLE Sense with a OV7675 Camera)  
- Which is a 3.3V nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256KB SRAM  
- For connectivity we can use BLE or Serial:UART/I2C/SPI 
+ For hardware, we use the $60.00 USD Arduino ML Kit (Arduino Nano 33 BLE Sense with a OV7675 Camera)  
+ Which is a 3.3V nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256 KB SRAM  
+ For connectivity, we can use BLE or Serial:UART/I2C/SPI 
  For Machine Learning simplicity and cloud training we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a>  
  Which is fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
  
@@ -206,13 +206,13 @@ The reality is we have constraints: In 2022 these look like:
  #### 6
  # Teaching Frustration, not enough pins!
  
-This is not necessaryily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
+This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
  # My solution 1 (Pins): <br>
- A. use the Arduino Portenta with 28 pins and potentially up to 160 pins<br>
+ A. use the Arduino PortentaH7 with 28 pins and potentially up to 160 pins<br>
  <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="200" /> <img src="portenta320x320-first.gif" width="200" /> 
  
-  Note: I am working on a pcb to allow access to all 160 pins witout using the Arduino Breakout Board.
+  Note: I am working on a PCB to allow access to all 160 pins without using the Arduino Breakout Board.
   
  <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="200" />  <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="200" /> 
 
@@ -247,7 +247,7 @@ Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a
 # Teaching Frustration, High Cost
 
 
-Eventually a set of very cheap microcontrollers will be available hopefully with LoRaWan capability, camera, sound and motion, but presently the main solution is to
+Eventually a set of very cheap microcontrollers will be available, hopefully with LoRaWan capability, camera, sound and motion, but presently the main solution is to
 make your own PCB.
 
 
@@ -292,7 +292,7 @@ I spent some time connecting multiple Nano 33 Ble sensors to edgeImpulse and hav
 #### 10 
 # Teaching Frustration, Hard to teach Keras Machine Learning using EdgeImpulse
 
-Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classfiy a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
+Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classify a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
 
 # My Solution 1 (Keras)
 Here is a link to my maker101 draft repository with some ideas on this topic <a href="https://github.com/hpssjellis/maker101/tree/main/edgeimpulse-keras-expert-mode-for-sensors"> here</a>
@@ -330,7 +330,7 @@ Use TensorflowJS and WebSerial, load data completely client side.
 My Solution 1 (Cloud)
 Use TensorflowJS and WebSerial, load data completely client side.
 
-my Solution 2 (Cloud)
+My Solution 2 (Cloud)
 Use TensorflowJS and TensorflowLite (or my version), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller.
  
  
@@ -346,20 +346,7 @@ Use TensorflowJS and TensorflowLite (or my version), load data completely client
  
  
  
- 
-<br><br><br><br<br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br><br><br><br>
-<hr><br><br>
-<hr>
+
  
  
  # Old stuff below. still here in case I need something from it
