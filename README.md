@@ -3,7 +3,7 @@
 
 
 
-##### version 0.0.1-1
+##### version 0.0.2-2
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -140,7 +140,7 @@ I strongly feel undergrads of all disciplines should have some form of hands on 
 #### 2 
 # My High School Teaching Background
 
-<img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="400" /> 
+<img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="200" /> 
 
 About 1976 when I was in grade 8 I taught myself how to computer program on a HP97 Calculator. Since then I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990's (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
 
@@ -168,7 +168,7 @@ This is my first successful ov7670 image
 <img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="400" /> 
 
 
-In Sep 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
+In September 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
 
 My first clear 48x48 image from the OV7670 camera inputed into EdgeImpulse  
 <img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="48" /> 
@@ -208,7 +208,7 @@ The reality is we have constraints: In 2022 these look like:
  
 This is not necessaryily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
- # My solution 1: 
+ # My solution 1 (Pins): <br>
  A. use the Arduino Portenta with 28 pins and potentially up to 160 pins<br>
  <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="200" /> <img src="portenta320x320-first.gif" width="200" /> 
  
@@ -222,7 +222,7 @@ This is not necessaryily to do with machine learning but whenever students start
  
 
  
-# My solution 2: 
+# My solution 2(Pins): <br>
  Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
  
 Example of 4 x $5 XIAO all running tensorflow Sine Hello World program 
@@ -236,7 +236,7 @@ Example of 4 x $5 XIAO all running tensorflow Sine Hello World program
 For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
  
-# My Solution 1
+# My Solution 1 (BLE)
 The PortentaH7 LoRa Vision Shield
 I think LoRa and LoRaWan connectivity makes a lot of sense for low power applications. 
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and adafruit.io 
@@ -252,7 +252,7 @@ make your own PCB.
 
 
 
-# My Solution #1
+# My Solution 1 (Cost)
 Many of my students both 3D Print and computer animate. We found several students quickly understood the main issues around PCB development from this one simple video for JLCPCB and easyEDA  <a href="https://github.com/hpssjellis/maker100#31">here</a> for which the cost is about $35 for 5 boards and takes about 10 days to deliver.
 
 Excellent video on making a PCB 
@@ -263,7 +263,7 @@ Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible 
 
 
 
-# My Solution #2
+# My Solution #2 (Cost)
 This is only cheaper since most students have a cell phone! Do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller, even the $5 Seeedstudio XIAO. This would take a lot of work, but sensors could upload to a model and actuators could be controlled by a model. The advantage of this is you get the much more computer power of the cell phone with the microcontroller allowing sensors and actuators. Has lots of teaching portential.
 
 
@@ -276,7 +276,7 @@ This is only cheaper since most students have a cell phone! Do the machine learn
 #### 9 
 # Teaching Frustration, Hard to connect raw sensor data to EdgeImpulse
  
-# My Solution 1
+# My Solution 1 (Data)
 
 I spent some time connecting multiple Nano 33 Ble sensors to edgeImpulse and have lots of examples. This is my Maker101 repository folder link <a href="https://github.com/hpssjellis/maker101/tree/main/ml-kit-nano-33-ble-sense-examples">here</a>
  
@@ -294,28 +294,28 @@ I spent some time connecting multiple Nano 33 Ble sensors to edgeImpulse and hav
 
 Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classfiy a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
 
-# My Solution 1
+# My Solution 1 (Keras)
 Here is a link to my maker101 draft repository with some ideas on this topic <a href="https://github.com/hpssjellis/maker101/tree/main/edgeimpulse-keras-expert-mode-for-sensors"> here</a>
  
-# My Solution 2
+# My Solution 2 (Keras)
 Use TensorflowJS and WebSerial. Getting EdgeImpulse models to tensorflowJS is a bit confusing. It would be nice if the data could be exported and loaded directly onto the browser, or better yet loaded completely in the browser
 
-# Other Solutions
+# Other Solutions (Keras)
  
-<b>TensorflowLIte</b>
+<b>TensorflowLIte</b> 
 
 My old version of TensorflowLite adapted for the Portenta<a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow"> here</a>. Note: The Arduino_TensorflowLite library seems to have disappeared, so here is a backup in zip format that can easily be installed with the Arduino library zip upload. <a href="Arduino_TensorFlowLite.zip">Arduino_TensorFlowLite.zip</a>
  
-<b>ALFES</b> on board ML for Arduino my video <a href="https://youtu.be/SJk2q1katgw">here</a>ALFES Github <a href="https://github.com/Fraunhofer-IMS/AIfES_for_Arduino"> here</a>
+<b>ALFES</b>  on board ML for Arduino my video <a href="https://youtu.be/SJk2q1katgw">here</a>ALFES Github <a href="https://github.com/Fraunhofer-IMS/AIfES_for_Arduino"> here</a>
 
 Just saw <a href="https://github.com/Bobingstern/MicroFlow"><b>MicroFlow</b></a> I know nothing about it.
  
 <hr>
 
 #### 11
-# Teaching Frustration, Students should not be loading their faces onto a Cloud Server
+# Teaching Frustration, Students should not be loading their faces onto a Cloud Server for security issues
 
-My Solution 1
+My Solution 1 (Security)
 Use TensorflowJS and WebSerial, load data completely client side.
 
 <img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png" width = "400" /> 
@@ -327,22 +327,17 @@ Use TensorflowJS and WebSerial, load data completely client side.
 #### 12
 # Teaching Frustration, relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free componenet is removed!)
 
-My Solution 1
+My Solution 1 (Cloud)
 Use TensorflowJS and WebSerial, load data completely client side.
 
-my Solution 2
-Use TensorflowJS and TensorflowLite (or my version), load data completely client side and transfer the model to the Nan33 Ble Sense or other microcontroller.
+my Solution 2 (Cloud)
+Use TensorflowJS and TensorflowLite (or my version), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller.
  
  
 #### 13
 # Summary
  
  
- 
-
-
-
-
  <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="400" /> 
 
 
