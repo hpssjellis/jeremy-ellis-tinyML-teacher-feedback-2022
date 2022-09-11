@@ -222,19 +222,14 @@ Install the client software on my laptop and individually install it on the stud
 # My solution 2 (Client): <br>
 Use a cell phone for data collection (Motion, Sound, Vision) and build as normal on EdgeImpulse and then download the Arduino build for model installation on the device
 
-
 # My solution 3 (Client): <br>
 Have students (or one person builds it and puts it on all the students hardware) the edgeimpulse client firmware from scratch. Nano 33 Ble <a href="https://github.com/edgeimpulse/firmware-arduino-nano-33-ble-sense">Github here</a>, Portenta <a href="https://github.com/edgeimpulse/firmware-arduino-portenta-h7">Github here</a>. This has a few extra issues such as long file names and storing a build.local.txt to your arduino hardware file that you then have to remove for normal arduino compiling.
-
 
 # My solution 4 (Client): <br>
 Create a .hex or .bin file of the client and force installing it using Arduino installation tools. This seems to be frowned upon from the Arduino Community but seems a very sensible solution to me. I think I have done it before but it was to confusing to teach to my students.
 
-
- 
 This year I hope NodeJS is installed on my new computers. 
- <br><br><br>
- <hr>
+<hr>
 
 #### 7
 # Teaching Frustration: EdgeImpulse model builds near 100% success, reality <30% succcess
@@ -250,13 +245,9 @@ Great teaching opportunity for Machine Learning, with guidance the students lear
 # My solution 3 (Success): <br>
 For vision models switching the concept from 3D to 2D often helps. So the Camera is positioned in a way that the incoming data is always showing the same face. (Camera above a conveyor belt). This often simplify's vision data colletion.
 
-
 # My solution 3 (Success): <br>
 Students often have difficulty realizing that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also a good ML learning experience. More on solutions for this later.
-
-
- <br><br><br>
- <hr>
+<hr>
 
 #### 8
 # Teaching Frustration:  Edgeimpulse C++ compile
