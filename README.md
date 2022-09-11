@@ -3,7 +3,7 @@
 
 
 
-##### version 0.1.2-4
+##### version 0.2.0-5
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -203,12 +203,51 @@ The reality is we have constraints: In 2022 these look like:
  For Machine Learning simplicity and cloud training we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a><br>
  EdgeImpulse makes it fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
  
- <br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br>
  <hr>
 
 #### 6
-# Teaching Frustration: not enough pins!
+# Teaching Frustration: Loading EdgeImpulse Client
+
+Sometimes in a computer locked down classroom without NodeJS it is difficult to load the EdgeImpulse Client
+
+# My solution 1 (Client): <br>
+Install the client on my laptop and individually install it on the students Arduino's
+
+# My solution 2 (Client): <br>
+Use a cell phone for data collection (Motion, Sound, Vision) and download the Arduino build for model installation
+
+
+# My solution 3 (Client): <br>
+Have students (or one person builds it and puts it on all the students hardware) build the client from scratch. Nano 33 Ble <a href="https://github.com/edgeimpulse/firmware-arduino-nano-33-ble-sense">here</a>, Portenta <a href="https://github.com/edgeimpulse/firmware-arduino-portenta-h7">here</a>. This has a few extra issues such as long file names and storing a build.local.txt to your arduino hardware file that you then have to remove for normal arduino compiling.
  
+This year I hope NodeJS is installed on my new computers. 
+ <br><br><br><br><br><br><br><br><br><br>
+ <hr>
+
+#### 7
+# Teaching Frustration: EdgeImpulse build 100% success, reality <30% succcess
+
+This is very common, that students build a model that has a very high success rate on EdgeImpulse with the student collected data, but when the student tests it in a real environment it performs very poorly or not at all. This can also have several reasons.
+
+# My solution 1 (Success): <br>
+Sometimes the software changes the students make to test their model, has errors, this is fixable but needs the instructor to have a very good knowledge of coding.
+
+# My solution 2 (Success): <br>
+Great teaching opportunity for Machine Learning, with guidance the students learn how to make a better model using better more realistic data, or just a better thought out collection of data.
+
+# My solution 3 (Success): <br>
+Students often have difficulty realizing that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also not a bad learning experience. More on solutions for this later.
+
+
+
+
+ <br><br><br><br><br><br><br><br><br><br>
+ <hr>
+
+#### 8
+# Teaching Frustration:  not enough pins!
+
 This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
 # My solution 1 (Pins): <br>
@@ -230,7 +269,7 @@ Example of 4 x $5 XIAO all running tensorflow Sine Hello World program all conne
 
  <hr>
 
-#### 7
+#### 9
 # Teaching Frustration: BLE low power connectivity
 For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
@@ -242,7 +281,7 @@ Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a
  
  <hr>
 
-#### 8
+#### 10
 # Teaching Frustration: High Cost and now the Chip shortage.
 
 
@@ -273,7 +312,7 @@ This is only cheaper since most students have a cell phone! I think we could do 
 
 <hr>
 
-#### 9 
+#### 11 
 # Teaching Frustration: Hard to connect raw sensor data to EdgeImpulse
  
 # My Solution 1 (Data)
@@ -287,7 +326,7 @@ I spent some time connecting multiple Nano 33 Ble sensors to edgeImpulse and hav
  
  <hr>
 
-#### 10 
+#### 12 
 # Teaching Frustration: Hard to teach Keras Machine Learning using EdgeImpulse
 
 Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classify a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
@@ -310,7 +349,7 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow"><b>MicroFlow</b></a>
  
 <hr>
 
-#### 11
+#### 13
 # Teaching Frustration: Students should not be loading their faces onto a Cloud Server for security issues
 
 My Solution 1 (Security)
@@ -322,7 +361,7 @@ Use TensorflowJS and WebSerial, load data completely client side.
 
 <hr>
 
-#### 12
+#### 14
 # Teaching Frustration: relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free componenet is removed!)
 
 My Solution 1 (Cloud)
@@ -335,7 +374,7 @@ My Solution 2 (Cloud)
 Use TensorflowJS and TensorflowLite (or my version), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller.
  
  
-#### 13
+#### 15
 # Summary
  
 <a href="https://www.edgeimpulse.com/">edgeimpulse.com<a/> and the Arduino ML kit are a great way to easily get students started in TinyML, but how to continue for advanced students? I hope to partner with a few Prof's to try some learning extensions. Here are a few of my relevant references:
