@@ -3,7 +3,7 @@
 
 
 
-##### version 0.1.0-3
+##### version 0.1.2-4
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -122,8 +122,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 <hr>
  
 #### 1
-# Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022
-
+# Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022 
+Follow with this link <a href="https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/">hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/</a><br>
 I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>
 I feel I have one gift, and that is the ability to teach complex things that I understand to 10 year olds! The problem is getting me to understand it!<br> 
 I am still a bit stuck on Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
