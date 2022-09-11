@@ -140,7 +140,7 @@ I strongly feel University Undergrads of all disciplines should have some form o
 #### 2 
 # My Background
 
-<img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="150" /> 
+<img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="160" /> 
 <img src="https://user-images.githubusercontent.com/5605614/189508144-36c33186-8607-40a0-91d6-0e90586df633.png" width="200" /> 
 
 
@@ -148,8 +148,8 @@ About 1976 when I was in grade 8, I taught myself how to computer program on bot
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
-I possibly made the first ever fully computer generated 3D printable object in 2016?  
-<img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="300" /> 
+In 2016 I possibly made the first ever computer generated 3D printable object Machine Learning Program ?  
+<img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="200" /> 
 
 
 
