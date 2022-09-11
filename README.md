@@ -124,7 +124,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 #### 1
 # Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022 
 Follow with this link <a href="https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/">hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/</a><br>
-I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>
+I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>, <a href="https://www.youtube.com/c/Rocksetta/videos"> Youtube Rocksetta Playlist</a><br>
 I feel I have one gift, and that is the ability to teach complex things that I understand to 10 year olds! The problem is getting me to understand it!<br> 
 I am still a bit stuck on Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
 
@@ -304,7 +304,7 @@ Use TensorflowJS and WebSerial. Getting EdgeImpulse models to tensorflowJS is a 
 
 My old version of TensorflowLite adapted for the Portenta<a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow"> here</a>. Note: The Arduino_TensorflowLite library seems to have disappeared, so here is a backup in zip format that can easily be installed with the Arduino library zip upload. <a href="Arduino_TensorFlowLite.zip">Arduino_TensorFlowLite.zip</a>
  
-<b>ALFES</b>  on board ML for Arduino my video <a href="https://youtu.be/SJk2q1katgw">here</a>ALFES Github <a href="https://github.com/Fraunhofer-IMS/AIfES_for_Arduino"> here</a>
+<b>ALFES</b>  on board ML for Arduino my video <a href="https://youtu.be/SJk2q1katgw">here</a> ALFES Github <a href="https://github.com/Fraunhofer-IMS/AIfES_for_Arduino"> here</a>
 
 Just saw <a href="https://github.com/Bobingstern/MicroFlow"><b>MicroFlow</b></a> I know nothing about it.
  
@@ -338,8 +338,14 @@ Use TensorflowJS and TensorflowLite (or my version), load data completely client
 #### 13
 # Summary
  
+<a href="https://www.edgeimpulse.com/">edgeimpulse.com<a/> and the Arduino ML kit are a great way to easily get students started in TinyML, but how to continue for advanced students? I hope to partner with a few Prof's to try some learning extensions. Here are a few of my relevant references:
  
- <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="400" /> 
+ My Robotics and ML course <a href="https://github.com/hpssjellis/maker100">Maker100</a><br>
+ My Portenta MBED library called the <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">portenta-pro-community-solutions</a> which will have some Nano 33 Ble Sense working code<br>
+ My <a href="https://github.com/hpssjellis/maker101">Maker101</a><br> repository that addresses many of the ideas mentioned today.
+ My Twitter feed for easy communication <a href="https://twitter.com/rocksetta">@rocksetta</a><br>
+ 
+ <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="200" /> 
 
 
  
