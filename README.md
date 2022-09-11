@@ -198,7 +198,7 @@ We wish tinyML hardware cost less than a $1, did all training and analysis clien
 The reality is we have constraints: In 2022 these look like: 
  
  For hardware, we use the $60.00 USD Arduino ML Kit (Arduino Nano 33 BLE Sense with a OV7675 Camera)<br>
- Which is a 3.3V nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256 KB SRAM<br>
+ Which is a 3.3V Nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256 KB SRAM<br>
  For connectivity, we can use BLE or Serial:UART/I2C/SPI<br> 
  For Machine Learning simplicity and cloud training we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a><br>
  EdgeImpulse makes it fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
@@ -216,18 +216,14 @@ This is not necessarily to do with machine learning but whenever students start 
  
   Note: I am working on a PCB to allow access to all 160 pins without using the Arduino Breakout Board.
   
- <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="200" />  <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="200" /> 
-
- 
- 
- <img src="https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg" width="200" /> 
+ <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="200" />  <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="200" /> <img src="https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg" width="200" /> 
  
 
  
 # My solution 2 (Pins): <br>
  Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
  
-Example of 4 x $5 XIAO all running tensorflow Sine Hello World program 
+Example of 4 x $5 XIAO all running tensorflow Sine Hello World program all connected using the I2C protocol.<br>
 <img src="https://user-images.githubusercontent.com/5605614/189020637-6917686b-3847-427f-87ee-94a82ee7a398.png" width="400" /> 
 
 
