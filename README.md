@@ -330,7 +330,7 @@ This is only cheaper since most students have a cell phone! I think we could do 
 I spent some time connecting multiple Nano 33 Ble sensors to edgeImpulse and have lots of examples. This is my Maker101 repository folder link <a href="https://github.com/hpssjellis/maker101/tree/main/ml-kit-nano-33-ble-sense-examples">here</a><br> This folder goes through steps to get raw data from the Nano 33 Ble Sense into EdgeImpulse. This needs the edgeImpulse serial client connectivity on your computer. Much easier if you can get Edgeimpulse webUSB connectivity working, but that does not always work for me without having the edgeimpulse client installed on the device.<br>
 
 Image of the Nano33 Ble Sense showing all raw sensor data, shifted vertically to allow each sense to have its own row.
- <img src="https://user-images.githubusercontent.com/5605614/189539030-785ddfc7-a8e8-4a2f-8ef5-c39faa6d5cda.png" width="400" /> 
+ <img src="https://user-images.githubusercontent.com/5605614/189539030-785ddfc7-a8e8-4a2f-8ef5-c39faa6d5cda.png" width="300" /> 
 
 
  
