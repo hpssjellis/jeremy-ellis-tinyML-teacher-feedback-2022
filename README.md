@@ -244,12 +244,25 @@ For vision models switching the concept from 3D to 2D often helps. So the Camera
 Students often have difficulty realizing that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also a good ML learning experience. More on solutions for this later.
 
 
+ <br><br><br>
+ <hr>
+
+#### 8
+# Teaching Frustration:  Edgeimpulse C++ compile
+In a teaching computer lab sometimes the GNU C++ environment is not well setup. This is not really a strength of mine since I typically use the Arduino IDE or platform.io, but occasionally some code would be better to compile using C++.
+
+# My solution 1 (C++): <br>
+Gitpod is an amazing browser based docker container giving 50 hours a month for free student use. The containers save but are only active for 10-30 minutes after the last entered command. I often test Github node projects using Gitpod by simply inserting gitpod.io/#  in front of the normal github URL.<br>
+For this solution I tried to make a Gitpod that loads all the development environments that edgeImpulse uses. It was only partially successful and GNU C++ is a bit advanced for my average High SChool student.<br>
+
+
+<a href="https://github.com/hpssjellis/my-gitpod-of-edge-impulse">/my-gitpod-of-edge-impulse</a>
 
 
  <br><br><br>
  <hr>
 
-#### 8
+#### 9
 # Teaching Frustration:  not enough pins!
 
 This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
@@ -273,7 +286,7 @@ Example of 4 x $5 XIAO all running tensorflow Sine Hello World program all conne
 
  <hr>
 
-#### 9
+#### 10
 # Teaching Frustration: BLE low power connectivity
 For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
@@ -294,7 +307,7 @@ Full connectivity also opens up the door for cloud classification like SiRi and 
 
  <hr>
 
-#### 10
+#### 11
 # Teaching Frustration: High Cost and now the Chip shortage.
 
 
@@ -325,7 +338,7 @@ This is only cheaper since most students have a cell phone! I think we could do 
 
 <hr>
 
-#### 11 
+#### 12 
 # Teaching Frustration: Hard to connect raw sensor data to EdgeImpulse
  
 # My Solution 1 (Data)
@@ -339,7 +352,7 @@ I spent some time connecting multiple Nano 33 Ble sensors to edgeImpulse and hav
  
  <hr>
 
-#### 12 
+#### 13 
 # Teaching Frustration: Hard to teach Keras Machine Learning using EdgeImpulse
 
 Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classify a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
@@ -362,7 +375,7 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow"><b>MicroFlow</b></a>
  
 <hr>
 
-#### 13
+#### 14
 # Teaching Frustration: Students should not be loading their faces onto a Cloud Server for security issues
 
 My Solution 1 (Security)
@@ -374,7 +387,7 @@ Use TensorflowJS and WebSerial, load data completely client side.
 
 <hr>
 
-#### 14
+#### 15
 # Teaching Frustration: relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free componenet is removed!)
 
 My Solution 1 (Cloud)
@@ -387,7 +400,7 @@ My Solution 2 (Cloud)
 Use TensorflowJS and TensorflowLite (or my version), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller.
  
  
-#### 15
+#### 16
 # Summary
  
 <a href="https://www.edgeimpulse.com/">edgeimpulse.com<a/> and the Arduino ML kit are a great way to easily get students started in TinyML, but how to continue for advanced students? I hope to partner with a few Prof's to try some learning extensions. Here are a few of my relevant references:
