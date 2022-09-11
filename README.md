@@ -279,15 +279,19 @@ For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must k
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
  
 # My Solution 1 (BLE)
-The PortentaH7 LoRa Vision Shield
-I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
+The PortentaH7 LoRa Vision Shield (~ $65 USD)
+Don't use BLE, I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
 
 The <a herf="https://explorer.helium.com/">Helium LoRaWan Coverage Map</a> for Spain
 <img src="https://user-images.githubusercontent.com/5605614/189534669-b3a0e8df-b1b2-4085-8666-9dff683903ad.png" width="400" /> 
 
+# My Solution 2 (BLE)
+If electrical power is not an issue, why not use WiFi or Ethernet which the portenta can have both. Large data bandwith. 
+If monthly cost is not an issue then Celluar could be considered (This I have never tested), options are presently 2G and 3G with the <a href="https://docs.arduino.cc/tutorials/portenta-cat-m1-nb-iot-gnss-shield/cheat-sheet"> Portenta CAT </a>, but I am sure 4G and 5G are coming soon. 
+Full connectivity also opens up the door for cloud classification like SiRi and other methods. Not really sure if that is still TinyML, but is something students need to consider to solve specific problems.
 
- 
+
  <hr>
 
 #### 10
