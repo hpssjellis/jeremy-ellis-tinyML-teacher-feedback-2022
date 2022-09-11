@@ -141,8 +141,10 @@ I strongly feel University Undergrads of all disciplines should have some form o
 # My Background
 
 <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="200" /> 
+<img src="https://user-images.githubusercontent.com/5605614/189508144-36c33186-8607-40a0-91d6-0e90586df633.png" width="200" /> 
 
-About 1976 when I was in grade 8, and I taught myself how to computer program on a HP97 Calculator. Since then, I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990s (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amounts for each node were summed and then fired if the sum was above zero). My NN's never worked but unfortunately only oscillated between classification. 
+
+About 1976 when I was in grade 8, I taught myself how to computer program on both the HP67 and HP97 Calculators. Since then, I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990s (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amounts for each node were summed and then fired if the sum was above zero). My NN's never worked but unfortunately only oscillated between classification. 
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
