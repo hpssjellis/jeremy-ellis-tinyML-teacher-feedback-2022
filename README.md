@@ -185,6 +185,7 @@ I would be interested in partnering with grad students/Professors trying to simp
 
 <b>This presentation is going to seems like I don't like the Arduino TinyML Kit with EdgeImpulse, I love it, I just need to push boundaries it's built into my personality</b>
  
+ A few projects my students are working on:<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="200" /><img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="200" /> <img src="https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg" width="200" /> 
 
 <br><br>
