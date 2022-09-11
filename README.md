@@ -3,7 +3,7 @@
 
 
 
-##### version 0.2.1-6
+##### version 0.3.0-7
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -134,7 +134,7 @@ I strongly feel University Undergrads of all disciplines should have some form o
  
  
  
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 #### 2 
@@ -158,7 +158,7 @@ I turn 60 next year and will retire from teaching in a few years (I would like t
 
 
 
-
+<br><br><br>
 <hr>
 
 #### 3
@@ -174,7 +174,7 @@ In September 2020 I helped problem solve the OV767x camera with the Nano-33-Ble-
 
 This image is of my first clear 48x48 pixel image from the OV7670 camera inputed into an EdgeImpulse classification model.<br>  
 <img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="48" /> 
-
+<br><br><br><br><br><br><br><br><br>
 <hr>
 
 
@@ -188,7 +188,7 @@ I would be interested in partnering with grad students/Professors trying to simp
  A few projects my students are working on:<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="200" /><img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="200" /> <img src="https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg" width="200" /> 
 
-<br><br>
+<br><br><br><br><br>
 <hr>
 
 #### 5
@@ -204,12 +204,8 @@ The reality is we have constraints: In 2022 these look like:
  EdgeImpulse makes it fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
  
 <img src="https://user-images.githubusercontent.com/5605614/189539237-ae66c32b-ff13-4760-af43-04d789025db3.png" width="400" /> 
-
-
- 
- 
-  <br><br><br><br><br><br><br><br><br><br>
- <hr>
+<br><br><br><br><br><br><br>
+<hr>
 
 #### 6
 # Teaching Frustration: Loading EdgeImpulse Client
@@ -259,7 +255,7 @@ For this solution I tried to make a Gitpod that loads all the development enviro
 This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and may not have survived updates to edgeimpulse. <a href="https://github.com/hpssjellis/my-gitpod-of-edge-impulse">my-gitpod-of-edge-impulse</a>
 
 
- <br><br><br> <br><br><br>
+ <br><br><br> <br><br><br><br><br><br>
  <hr>
 
 #### 9
@@ -389,7 +385,7 @@ Use TensorflowJS and WebSerial, load data completely client side.
 
 My Solution 2 (Cloud)
 Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow">here</a>), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller. If TensorflowLite stays deprecated this is not a great idea. backed up TFlite library here: [Arduino_TensorFlowLite.zip](Arduino_TensorFlowLite.zip)
- 
+<br><br><br> 
 <hr> 
 #### 16
 # Summary
@@ -405,7 +401,7 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
  <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="200" /> 
 
 
- <br><br> <br><br>
+ <br><br> <br><br><br><br><br><br><br><br>
  <hr>
  
  
@@ -434,7 +430,9 @@ Note:
 1. Old ML presentation [here](https://hpssjellis.github.io/my-robotics-machine-learning-teaching-lightning-talk-pecha-kucha/)
 2. Old TensorflowJS presentation [here](https://hpssjellis.github.io/lightening-talk-Pecha-Kucha-tensorflowjs/)
 3. Pecha Kucha template [here](https://github.com/hpssjellis/pecha-kucha-lightning-talks-template)
-
+<br><br><br><br><br><br><br><br><br><br><br>
+ <hr>
+ 
 
 
 <script>
