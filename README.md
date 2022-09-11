@@ -140,7 +140,7 @@ I strongly feel University Undergrads of all disciplines should have some form o
 #### 2 
 # My Background
 
-<img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="200" /> 
+<img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="150" /> 
 <img src="https://user-images.githubusercontent.com/5605614/189508144-36c33186-8607-40a0-91d6-0e90586df633.png" width="200" /> 
 
 
@@ -167,7 +167,7 @@ I turn 60 next year and will retire from teaching in a few years (I would like t
 A few years ago my students chose to work with the Nano-33-Ble-Sense, and we purchased a $10 ov7670 camera to go with it.  
 This is my first successful OV7670 image
 
-<img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="200" /> 
+<img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="300" /> 
 
 
 In September 2020 I helped problem solve the OV767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also got it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
@@ -259,13 +259,11 @@ In a teaching computer lab sometimes the GNU C++ environment is not well setup. 
 
 # My solution 1 (C++): <br>
 Gitpod is an amazing browser based docker container giving 50 hours a month for free student use. The containers save but are only active for 10-30 minutes after the last entered command. I often test Github node projects using Gitpod by simply inserting gitpod.io/#  in front of the normal github URL.<br>
-For this solution I tried to make a Gitpod that loads all the development environments that edgeImpulse uses. It was only partially successful and GNU C++ is a bit advanced for my average High SChool student.<br>
+For this solution I tried to make a Gitpod that loads all the development environments that edgeImpulse uses. It was only partially successful and GNU C++ is a bit advanced for my average High School student.<br>
+This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and may not have survived updates to edgeimpulse. <a href="https://github.com/hpssjellis/my-gitpod-of-edge-impulse">my-gitpod-of-edge-impulse</a>
 
 
-<a href="https://github.com/hpssjellis/my-gitpod-of-edge-impulse">/my-gitpod-of-edge-impulse</a>
-
-
- <br><br><br>
+ <br><br><br> <br><br><br>
  <hr>
 
 #### 9
@@ -287,7 +285,7 @@ This is not necessarily to do with machine learning but whenever students start 
  Use multiple microcontrollers connected by Serial: UART, I2C, or SPI
  
 Example of 4 x $5 XIAO all running tensorflow Sine Hello World program all connected using the I2C protocol.<br>
-<img src="https://user-images.githubusercontent.com/5605614/189020637-6917686b-3847-427f-87ee-94a82ee7a398.png" width="400" /> 
+<img src="https://user-images.githubusercontent.com/5605614/189020637-6917686b-3847-427f-87ee-94a82ee7a398.png" width="200" /> 
 
 
  <hr>
@@ -302,8 +300,8 @@ The PortentaH7 LoRa Vision Shield (~ $65 USD)
 Don't use BLE, I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
 
-The <a herf="https://explorer.helium.com/">Helium LoRaWan Coverage Map</a> for Spain
-<img src="https://user-images.githubusercontent.com/5605614/189534669-b3a0e8df-b1b2-4085-8666-9dff683903ad.png" width="400" /> 
+The <a herf="https://explorer.helium.com/">Helium LoRaWan Coverage Map</a> for Spain<br>
+<img src="https://user-images.githubusercontent.com/5605614/189534669-b3a0e8df-b1b2-4085-8666-9dff683903ad.png" width="200" /> 
 
 # My Solution 2 (BLE)
 If electrical power is not an issue, why not use WiFi or Ethernet which the portenta can have both. Large data bandwith. 
