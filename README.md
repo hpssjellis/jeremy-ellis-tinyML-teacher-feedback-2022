@@ -130,9 +130,11 @@ I am still a bit stuck on Quantum Computing, my Github about Quantum is <a href=
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
-I strongly feel University Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately, simplification often results in a loss of big picture knowledge and capability. <b>So the challenge is: how to simplify ML without losing computing flexibility. </b>
+I strongly feel University Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately, simplification often results in a loss of big picture knowledge and capability.<br><br>
+
+<b>So the challenge is: how to simplify ML without losing computing flexibility. </b>
  
-I turn 60 next year and will retire from teaching in a few years (I would like to continue part-time working on tech solutions after retiring). 
+I turn 60 next year and will retire from teaching in a few years, I would however like to continue part-time working on tech solutions after retiring. 
  
  
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
