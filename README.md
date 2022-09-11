@@ -206,7 +206,7 @@ The reality is we have constraints: In 2022 these look like:
  <hr>
 
 #### 6
-# Teaching Frustration, not enough pins!
+# Teaching Frustration: not enough pins!
  
 This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
@@ -230,41 +230,40 @@ Example of 4 x $5 XIAO all running tensorflow Sine Hello World program all conne
  <hr>
 
 #### 7
-# Teaching Frustration, BLE low power connectivity
+# Teaching Frustration: BLE low power connectivity
 For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
  
 # My Solution 1 (BLE)
 The PortentaH7 LoRa Vision Shield
-I think LoRa and LoRaWan connectivity makes a lot of sense for low power applications. 
-Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and adafruit.io 
+I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
+Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
  
  <hr>
 
 #### 8
-# Teaching Frustration, High Cost
+# Teaching Frustration: High Cost and now the Chip shortage.
 
 
-Eventually a set of very cheap microcontrollers will be available, hopefully with LoRaWan capability, camera, sound and motion, but presently the main solution is to
-make your own PCB.
+Eventually a set of very cheap microcontrollers will be available, hopefully with LoRaWan capability, camera, and/or sound and/or motion, but presently the main solution is to make your own PCB.
 
 
 
 # My Solution 1 (Cost)
-Many of my students both 3D Print and computer animate. We found several students quickly understood the main issues around PCB development from this one simple video for JLCPCB and easyEDA <br> 
+Many of my students both 3D print and computer animate. We found several students quickly understood the main issues around PCB development from this one simple video for JLCPCB and easyEDA <br> 
 <a href="https://github.com/hpssjellis/maker100#31">here</a> for which the cost is about $35 for 5 boards and takes about 10 days to deliver.
 
 Excellent video on making a PCB 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjPNYMRA0m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
-Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution for at school PCB production.
+Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution for at school PCB production.<br>
 <img src="https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png" width="200" /> 
 
 
 
 # My Solution #2 (Cost)
-This is only cheaper since most students have a cell phone! Do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller, even the $5 Seeedstudio XIAO. This would take a lot of work, but sensors could upload to a model and actuators could be controlled by a model. The advantage of this is you get the much more computer power of the cell phone with the microcontroller allowing sensors and actuators. Has lots of teaching portential.
+This is only cheaper since most students have a cell phone! I think we could do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller like the Nano 33 Ble Sense or the $5 Seeedstudio XIAO. This would take a lot of work, but sensors could upload to a model and actuators could be controlled by a model. The advantage of this is you get the much more computer power of the cell phone with the microcontroller allowing sensors and actuators. Has lots of teaching portential. Edgeimpulse even outputs a WASM web output, but I will also look into using TensorflowJS for the cell phone side.
 
 
 
@@ -274,7 +273,7 @@ This is only cheaper since most students have a cell phone! Do the machine learn
 <hr>
 
 #### 9 
-# Teaching Frustration, Hard to connect raw sensor data to EdgeImpulse
+# Teaching Frustration: Hard to connect raw sensor data to EdgeImpulse
  
 # My Solution 1 (Data)
 
@@ -288,7 +287,7 @@ I spent some time connecting multiple Nano 33 Ble sensors to edgeImpulse and hav
  <hr>
 
 #### 10 
-# Teaching Frustration, Hard to teach Keras Machine Learning using EdgeImpulse
+# Teaching Frustration: Hard to teach Keras Machine Learning using EdgeImpulse
 
 Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classify a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
 
@@ -311,7 +310,7 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow"><b>MicroFlow</b></a>
 <hr>
 
 #### 11
-# Teaching Frustration, Students should not be loading their faces onto a Cloud Server for security issues
+# Teaching Frustration: Students should not be loading their faces onto a Cloud Server for security issues
 
 My Solution 1 (Security)
 Use TensorflowJS and WebSerial, load data completely client side. 
@@ -323,7 +322,7 @@ Use TensorflowJS and WebSerial, load data completely client side.
 <hr>
 
 #### 12
-# Teaching Frustration, relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free componenet is removed!)
+# Teaching Frustration: relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free componenet is removed!)
 
 My Solution 1 (Cloud)
 Use TensorflowJS and WebSerial, load data completely client side.
