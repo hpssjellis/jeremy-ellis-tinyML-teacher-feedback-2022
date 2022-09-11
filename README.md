@@ -376,6 +376,10 @@ Use TensorflowJS and WebSerial, load data completely client side.
 #### 15
 # Teaching Frustration: relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free componenet is removed!)
 
+I spent about 2 years designing Android browser capable tools on Cloud9, after the AWS purchase all my work was no longer free and worst deprecated.<br>
+<img src="https://user-images.githubusercontent.com/5605614/189539603-1339cb02-162c-4910-8969-4ed4b6697322.png" width="300" />  
+
+
 My Solution 1 (Cloud)
 Use TensorflowJS and WebSerial, load data completely client side.
 
@@ -383,9 +387,9 @@ Use TensorflowJS and WebSerial, load data completely client side.
 
 
 My Solution 2 (Cloud)
-Use TensorflowJS and TensorflowLite (or my version), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller.
+Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow">here</a>), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller.
  
- 
+<hr> 
 #### 16
 # Summary
  
