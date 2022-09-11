@@ -138,11 +138,11 @@ I strongly feel University Undergrads of all disciplines should have some form o
 <hr>
 
 #### 2 
-# My High School Teaching Background
+# My Background
 
 <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="200" /> 
 
-About 1976 when I was in grade 8, and I taught myself how to computer program on a HP97 Calculator. Since then, I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990s (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amount summed and the nodes fire if the sum was above zero). My NN's  unfortunately only oscillated between solutions. 
+About 1976 when I was in grade 8, and I taught myself how to computer program on a HP97 Calculator. Since then, I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990s (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amounts for each node were summed and then fired if the sum was above zero). My NN's never worked but unfortunately only oscillated between classification. 
 
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
@@ -152,7 +152,7 @@ I possibly made the first ever fully computer generated 3D printable object in 2
 
 
 I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a><br><br>
-I turn 60 next year and will retire from teaching in a few years (I will probably continue to work on tech solutions after retiring). 
+I turn 60 next year and will retire from teaching in a few years (I would like to continue part time to work on tech solutions after retiring). 
 
 
 
