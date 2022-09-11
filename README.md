@@ -378,7 +378,7 @@ Use TensorflowJS and WebSerial, load data completely client side.
 This probably will not happen with Edge Impulse, but if it does it happens while teaching your course and without notice.<br>
 
 I spent about 2 years designing Android browser capable tools on Cloud9, after the AWS purchase all my work was no longer free and worst deprecated.<br>
-<img src="https://user-images.githubusercontent.com/5605614/189539603-1339cb02-162c-4910-8969-4ed4b6697322.png" width="300" />  
+<a href="https://techcrunch.com/2016/07/14/amazons-aws-buys-cloud9-to-add-more-development-tools-to-its-web-services-stack"><img src="https://user-images.githubusercontent.com/5605614/189539603-1339cb02-162c-4910-8969-4ed4b6697322.png" width="300" />  </a>
 
 
 My Solution 1 (Cloud)
