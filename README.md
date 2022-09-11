@@ -420,12 +420,13 @@ Use TensorflowJS and TensorflowLite (or my version), load data completely client
  <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="200" /> 
 
 
- 
+ <br><br> <br><br>
+ <hr>
  
  
 
-
-
+#### 17
+# End of presentation
 
 <a href="#top">Top of page</a>
 
