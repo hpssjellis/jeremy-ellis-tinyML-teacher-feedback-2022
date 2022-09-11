@@ -306,32 +306,20 @@ Full connectivity also opens up the door for cloud classification like SiRi and 
 #### 11
 # Teaching Frustration: High Cost and now the Chip shortage.
 
-
 Eventually a set of very cheap microcontrollers will be available, hopefully with LoRaWan capability, camera, and/or sound and/or motion, but presently the main solution is to make your own PCB.
-
-
 
 # My Solution 1 (Cost)
 Many of my students both 3D print and computer animate. We found several students quickly understood the main issues around PCB development from this one simple video for JLCPCB and easyEDA <br> 
 <a href="https://github.com/hpssjellis/maker100#31">here</a> for which the cost is about $35 for 5 boards and takes about 10 days to deliver.
 
 Excellent video on making a PCB 
-<iframe width="300" height="150" src="https://www.youtube.com/embed/gjPNYMRA0m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><img src="https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png" width="200" /> 
-
-<br><br>
-Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution for at school PCB production.<br>
+<iframe width="300" height="150" src="https://www.youtube.com/embed/gjPNYMRA0m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution for at school PCB production.<img src="https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png" width="50" /> <br>
 
 # My Solution #2 (Cost)
-This is only cheaper since most students have a cell phone! I think we could do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller like the Nano 33 Ble Sense or the $5 Seeedstudio XIAO. This would take a lot of work, but sensors could upload to a model and actuators could be controlled by a model. The advantage of this is you get the much more computer power of the cell phone with the microcontroller allowing sensors and actuators. Has lots of teaching portential. Edgeimpulse even outputs a WASM web output, but I will also look into using TensorflowJS for the cell phone side.
-
-
-
-
-
-
+This is only cheaper since most students have a cell phone! I think we could do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller like the Nano 33 Ble Sense or the $5 Seeedstudio XIAO. This has lots of teaching portential. Edgeimpulse even outputs a WASM for the web, this is my present area of interest.
 <hr>
 
 #### 12 
