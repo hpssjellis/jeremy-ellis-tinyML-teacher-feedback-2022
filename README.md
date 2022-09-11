@@ -181,8 +181,9 @@ This image is of my first clear 48x48 pixel image from the OV7670 camera inputed
 #### 4
 # High School, Grad School partnerships
 
-I would be interested in partnering up with grad students trying to simplify machine learning. I can provide students to test their ideas and possibly give some feedback about the steps that were most confusing. In this presentation, I will suggest multiple paths for advanced use of TinyML. I will not be able to research all of these ideas, but would help support others interested in them.
+I would be interested in partnering with grad students/Professors trying to simplify machine learning. I can provide students to test their ideas and possibly give feedback about the steps that were most confusing. In this presentation, I will suggest multiple paths for advanced use of TinyML. I will not have time to continue to research all of these ideas, but would help support others interested in them.
 
+<b>This presentation is going to seems like I don't like the Arduino TinyML Kit with EdgeImpulse, I love it, I just need to push boundaries it's built into my personality</b>
  
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="200" /><img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="200" /> 
 
