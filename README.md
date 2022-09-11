@@ -209,24 +209,24 @@ The reality is we have constraints: In 2022 these look like:
 #### 6
 # Teaching Frustration: Loading EdgeImpulse Client
 
-Sometimes in a computer locked down classroom without NodeJS it is difficult to load the EdgeImpulse Client
+Sometimes in a classroom computer lab that has software lock-down without NodeJS it is difficult to load the EdgeImpulse Client on an Arduino
 
 # My solution 1 (Client): <br>
-Install the client on my laptop and individually install it on the students Arduino's
+Install the client software on my laptop and individually install it on the students Arduino's
 
 # My solution 2 (Client): <br>
-Use a cell phone for data collection (Motion, Sound, Vision) and download the Arduino build for model installation
+Use a cell phone for data collection (Motion, Sound, Vision) and build as normal on EdgeImpulse and then download the Arduino build for model installation on the device
 
 
 # My solution 3 (Client): <br>
-Have students (or one person builds it and puts it on all the students hardware) build the client from scratch. Nano 33 Ble <a href="https://github.com/edgeimpulse/firmware-arduino-nano-33-ble-sense">here</a>, Portenta <a href="https://github.com/edgeimpulse/firmware-arduino-portenta-h7">here</a>. This has a few extra issues such as long file names and storing a build.local.txt to your arduino hardware file that you then have to remove for normal arduino compiling.
+Have students (or one person builds it and puts it on all the students hardware) the edgeimpulse client firmware from scratch. Nano 33 Ble <a href="https://github.com/edgeimpulse/firmware-arduino-nano-33-ble-sense">Github here</a>, Portenta <a href="https://github.com/edgeimpulse/firmware-arduino-portenta-h7">Github here</a>. This has a few extra issues such as long file names and storing a build.local.txt to your arduino hardware file that you then have to remove for normal arduino compiling.
  
 This year I hope NodeJS is installed on my new computers. 
  <br><br><br><br><br><br><br><br><br><br>
  <hr>
 
 #### 7
-# Teaching Frustration: EdgeImpulse build 100% success, reality <30% succcess
+# Teaching Frustration: EdgeImpulse model builds near 100% success, reality <30% succcess
 
 This is very common, that students build a model that has a very high success rate on EdgeImpulse with the student collected data, but when the student tests it in a real environment it performs very poorly or not at all. This can also have several reasons.
 
@@ -237,7 +237,11 @@ Sometimes the software changes the students make to test their model, has errors
 Great teaching opportunity for Machine Learning, with guidance the students learn how to make a better model using better more realistic data, or just a better thought out collection of data.
 
 # My solution 3 (Success): <br>
-Students often have difficulty realizing that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also not a bad learning experience. More on solutions for this later.
+For vision models switching the concept from 3D to 2D often helps. So the Camera is positioned in a way that the incoming data is always showing the same face. (Camera above a conveyor belt). This often simplify's vision data colletion.
+
+
+# My solution 3 (Success): <br>
+Students often have difficulty realizing that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also a good ML learning experience. More on solutions for this later.
 
 
 
