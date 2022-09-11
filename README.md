@@ -278,6 +278,11 @@ Note: Cellular and WiFi typically use a lot of electrical power, but they are bo
 The PortentaH7 LoRa Vision Shield
 I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
+
+The <a herf="https://explorer.helium.com/">Helium LoRaWan Coverage Map</a> for Spain
+<img src="https://user-images.githubusercontent.com/5605614/189534669-b3a0e8df-b1b2-4085-8666-9dff683903ad.png" width="400" /> 
+
+
  
  <hr>
 
