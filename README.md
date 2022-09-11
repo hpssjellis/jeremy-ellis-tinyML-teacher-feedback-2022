@@ -124,13 +124,13 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="15" >, Se
 #### 1
 # Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022
 
-I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta</a>
-I can teach anything complex that I understand to a 10 year old! The problem is getting me to understand it! 
-I am still a bit stuck on Quantum Computing, my Github about it is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here</a>
+I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>
+I feel I have one gift, and that is the ability to teach complex things that I understand to 10 year olds! The problem is getting me to understand it!<br> 
+I am still a bit stuck on Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
-I strongly feel University Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately, simplification often results in a loss of creative flexibility. So the challenge is: how to simplify ML without losing computing flexibility. 
+I strongly feel University Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately, simplification often results in a loss of big picture knowledge and capability. <b>So the challenge is: how to simplify ML without losing computing flexibility. </b>
  
  
  
