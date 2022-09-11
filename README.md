@@ -203,6 +203,11 @@ The reality is we have constraints: In 2022 these look like:
  For Machine Learning simplicity and cloud training we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a><br>
  EdgeImpulse makes it fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
  
+<img src="https://user-images.githubusercontent.com/5605614/189539237-ae66c32b-ff13-4760-af43-04d789025db3.png" width="400" /> 
+
+
+ 
+ 
   <br><br><br><br><br><br><br><br><br><br>
  <hr>
 
