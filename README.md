@@ -222,7 +222,7 @@ Use a cell phone for data collection (Motion, Sound, Vision) and build as normal
 Have students (or one person builds it and puts it on all the students hardware) the edgeimpulse client firmware from scratch. Nano 33 Ble <a href="https://github.com/edgeimpulse/firmware-arduino-nano-33-ble-sense">Github here</a>, Portenta <a href="https://github.com/edgeimpulse/firmware-arduino-portenta-h7">Github here</a>. This has a few extra issues such as long file names and storing a build.local.txt to your arduino hardware file that you then have to remove for normal arduino compiling.
  
 This year I hope NodeJS is installed on my new computers. 
- <br><br><br><br><br><br><br><br><br><br>
+ <br><br><br>
  <hr>
 
 #### 7
@@ -246,7 +246,7 @@ Students often have difficulty realizing that for the problem they are trying to
 
 
 
- <br><br><br><br><br><br><br><br><br><br>
+ <br><br><br>
  <hr>
 
 #### 8
