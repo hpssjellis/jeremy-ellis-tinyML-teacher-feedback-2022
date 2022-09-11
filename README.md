@@ -152,7 +152,7 @@ I possibly made the first ever fully computer generated 3D printable object in 2
 
 
 I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a><br><br>
-I turn 60 next year and will retire from teaching in a few years (I would like to continue part time to work on tech solutions after retiring). 
+I turn 60 next year and will retire from teaching in a few years (I would like to continue part-time working on tech solutions after retiring). 
 
 
 
@@ -160,17 +160,17 @@ I turn 60 next year and will retire from teaching in a few years (I would like t
 <hr>
 
 #### 3
-Nano 33 Ble Sense with a OV767x Camera
+# Nano 33 Ble Sense with an OV767x Camera
 
-A few years ago my students chose to work with the Nano-33-ble-sense, and we purchased a $10 ov7670 camera to go with it.  
-This is my first successful ov7670 image
+A few years ago my students chose to work with the Nano-33-Ble-Sense, and we purchased a $10 ov7670 camera to go with it.  
+This is my first successful OV7670 image
 
 <img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="400" /> 
 
 
-In September 2020 I helped problem solve the ov767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also to get it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
+In September 2020 I helped problem solve the OV767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also got it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
 
-My first clear 48x48 image from the OV7670 camera inputed into EdgeImpulse  
+This image is of my first clear 48x48 pixel image from the OV7670 camera inputed into an EdgeImpulse classification model.<br>  
 <img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="48" /> 
 
 <hr>
