@@ -167,7 +167,7 @@ I turn 60 next year and will retire from teaching in a few years (I would like t
 A few years ago my students chose to work with the Nano-33-Ble-Sense, and we purchased a $10 ov7670 camera to go with it.  
 This is my first successful OV7670 image
 
-<img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="400" /> 
+<img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="200" /> 
 
 
 In September 2020 I helped problem solve the OV767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also got it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
