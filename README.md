@@ -388,7 +388,7 @@ Use TensorflowJS and WebSerial, load data completely client side.
 
 
 My Solution 2 (Cloud)
-Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow">here</a>), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller.
+Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow">here</a>), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller. If TensorflowLite stays deprecated this is not a great idea. backed up TFlite library here: [Arduino_TensorFlowLite.zip](Arduino_TensorFlowLite.zip)
  
 <hr> 
 #### 16
