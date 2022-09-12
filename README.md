@@ -3,7 +3,7 @@
 
 
 
-##### version 0.3.0-7
+##### version 0.3.1-8
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -137,7 +137,7 @@ I strongly feel University Undergrads of all disciplines should have some form o
 I turn 60 next year and will retire from teaching in a few years, I would however like to continue part-time working on tech solutions after retiring. 
  
  
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr>
 
 #### 2 
@@ -152,7 +152,7 @@ About 1976 when I was in grade 8, I taught myself how to computer program on bot
 Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
 
 In 2016 I possibly made the first ever computer generated 3D printable object Machine Learning Program ?  
-<img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="200" /> 
+<img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="150" /> 
 
 
 
@@ -176,7 +176,7 @@ In September 2020 I helped problem solve the OV767x camera with the Nano-33-Ble-
 
 This image is of my first clear 48x48 pixel image from the OV7670 camera inputed into an EdgeImpulse classification model.<br>  
 <img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="48" /> 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <hr>
 
 
@@ -363,11 +363,11 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow"><b>MicroFlow</b></a>
 # Teaching Frustration: Students should not be loading their faces onto a Cloud Server for security issues
 
 My Solution 1 (Security)
-Use TensorflowJS and WebSerial, load data completely client side. 
+Use TensorflowJS and WebSerial, load data completely client side. I am working on this solution.
 
 <img src="https://user-images.githubusercontent.com/5605614/176290714-58fa7196-fe53-4ce9-a77b-2687b4e757fa.png" width = "400" /> 
 
-
+<br><br><br><br><br>
 
 <hr>
 
