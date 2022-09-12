@@ -243,16 +243,16 @@ Great teaching opportunity for Machine Learning, with guidance the students lear
 # My solution 3 (Success): <br>
 For vision models switching the concept from 3D to 2D often helps. So the Camera is positioned in a way that the incoming data is always showing the same face. (Camera above a conveyor belt). This often simplify's vision data colletion.
 
-# My solution 3 (Success): <br>
+# My solution 4 (Success): <br>
 Students often have difficulty realizing that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also a good ML learning experience. More on solutions for this later.
 <hr>
 
 #### 8
 # Teaching Frustration:  Edgeimpulse C++ compile
-In a teaching computer lab sometimes the GNU C++ environment is not well setup. This is not really a strength of mine since I typically use the Arduino IDE or platform.io, but occasionally some code would be better to compile using C++.
+In a teaching computer lab sometimes the GNU C++ environment is not well setup. Using GNU C++ is not really a strength of mine since I typically use the Arduino IDE or Platform.io, but occasionally some code would be better to compile using C++.
 
 # My solution 1 (C++): <br>
-Gitpod is an amazing browser based docker container giving 50 hours a month for free student use. The containers save but are only active for 10-30 minutes after the last entered command. I often test Github node projects using Gitpod by simply inserting gitpod.io/#  in front of the normal github URL.<br>
+<a href="https://www.gitpod.io/">Gitpod</a> is an amazing browser based docker container giving 50 hours a month for free student use. The containers save but are only active for 10-30 minutes after the last entered command. I often test Github node projects using Gitpod by simply inserting gitpod.io/#  in front of the normal github URL.<br>
 For this solution I tried to make a Gitpod that loads all the development environments that edgeImpulse uses. It was only partially successful and GNU C++ is a bit advanced for my average High School student.<br>
 This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and may not have survived updates to edgeimpulse. <a href="https://github.com/hpssjellis/my-gitpod-of-edge-impulse">my-gitpod-of-edge-impulse</a>
 
@@ -266,7 +266,7 @@ This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and 
 This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
  
 # My solution 1 (Pins): <br>
-A. use the expensive but more powerful ($105 USD) Arduino PortentaH7 with 28 pins and potentially up to 160 pins<br>
+Use the expensive but more powerful ($105 USD) Arduino PortentaH7 with 28 pins and potentially up to 160 pins<br>
 <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="200" /> <img src="portenta320x320-first.gif" width="200" /> 
  
 Note: I am working on a PCB to allow access to all 160 pins without using the Arduino Breakout Board ($25 USD). Note: The breakout board has the pins organized by concept, my board has the pins organized by the High Density connectors J1 and J2
@@ -287,7 +287,7 @@ Note: Cellular and WiFi typically use a lot of electrical power, but they are bo
  
 # My Solution 1 (BLE)
 The PortentaH7 LoRa Vision Shield (~ $65 USD)
-Don't use BLE, I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
+I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
 
 The <a herf="https://explorer.helium.com/">Helium LoRaWan Coverage Map</a> for Spain<br>
@@ -317,7 +317,7 @@ Excellent video on making a PCB
 Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution for at school PCB production.<img src="https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png" width="50" /> <br>
 
 # My Solution #2 (Cost)
-This is only cheaper since most students have a cell phone! I think we could do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller like the Nano 33 Ble Sense or the $5 Seeedstudio XIAO. This has lots of teaching portential. Edgeimpulse even outputs a WASM for the web, this is my present area of interest.
+This is only cheaper since most students have a cell phone! I think we could do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller like the Nano 33 Ble Sense or the $5 Seeedstudio XIAO. This has lots of teaching portential and is my main research area at present. Edgeimpulse even outputs a WASM for the web.
 <hr>
 
 #### 12 
@@ -339,7 +339,7 @@ Image of the Nano33 Ble Sense showing all raw sensor data, shifted vertically to
 #### 13 
 # Teaching Frustration: Hard to teach Keras Machine Learning using EdgeImpulse
 
-Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classify a pen from unknowns and they actually understand how to do it, but making your own models that work is a bit harder. 
+Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classify a pen from unknowns and they actually understand how to do it, but making your own Keras models that work well with complete Keras flexibility is a bit harder. 
 
 # My Solution 1 (Keras)
 Here is a link to my maker101 draft repository with some ideas on this topic <a href="https://github.com/hpssjellis/maker101/tree/main/edgeimpulse-keras-expert-mode-for-sensors"> here</a>
@@ -373,9 +373,9 @@ Use TensorflowJS and WebSerial, load data completely client side.
 
 #### 15
 # Teaching Frustration: relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free component is removed!)
-This probably will not happen with Edge Impulse, but if it does it happens while teaching your course and without notice.<br>
+This probably will not happen with Edge Impulse, but if it does it can be devastating to your course.<br>
 
-I spent about 2 years designing Android browser capable tools on Cloud9, after the AWS purchase all my work was no longer free and worst deprecated.<br>
+Example: I spent about 2 years designing Android browser capable tools on Cloud9, after the AWS purchase all my work was no longer free and worse was deprecated.<br>
 <a href="https://techcrunch.com/2016/07/14/amazons-aws-buys-cloud9-to-add-more-development-tools-to-its-web-services-stack"><img src="https://user-images.githubusercontent.com/5605614/189539603-1339cb02-162c-4910-8969-4ed4b6697322.png" width="300" />  </a>
 
 
@@ -396,12 +396,13 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
  
  My Robotics and ML course <a href="https://github.com/hpssjellis/maker100">Maker100</a><br>
  My Portenta MBED library called the <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">portenta-pro-community-solutions</a> which will have some Nano 33 Ble Sense working code<br>
- My <a href="https://github.com/hpssjellis/maker101">Maker101</a><br> repository that addresses many of the ideas mentioned today.<br>
+ My <a href="https://github.com/hpssjellis/maker101">Maker101</a> repository that addresses many of the ideas mentioned today.<br>
  My Twitter feed for easy communication <a href="https://twitter.com/rocksetta">@rocksetta</a><br>
  
- Image of the PortentaH7 with LoRa Vision shield attached behind it running a FOMO vision model with a 128x128 WaveShare 16 bit Grayscale OLED<br>
+ Image of the PortentaH7 ( with LoRa Vision shield attached behind it) running a 72 ms FOMO vision model with a 128x128 WaveShare 16 bit Grayscale OLED<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="200" /> 
 
+# Summary Mind Map of the topics today.
 
 ![image](https://user-images.githubusercontent.com/5605614/189542714-880b0e49-2df3-452f-b362-959abb7cd507.png)
  <hr>
