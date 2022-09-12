@@ -125,16 +125,16 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Se
 # Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022 
 Follow with this link <a href="https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/">hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/</a><br>
 I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>, <a href="https://www.youtube.com/c/Rocksetta/videos"> Youtube Rocksetta Playlist</a><br>
-I feel I have one gift, and that is the ability to teach complex things that I understand to others! The problem is getting me to understand it!<br> 
+I feel, I have one gift, and that is the ability to teach complex things, that I understand, to others! The problem is getting me to understand something!<br> 
 I am still a bit stuck on Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
-I strongly feel university Undergrads of all disciplines should have some form of hands on Machine Learning and Robotics before graduation. Unfortunately, simplification often results in a loss of big picture knowledge and capability.<br><br>
+I strongly feel university undergrads of all disciplines should have some form of hands on Machine Learning and robotics before graduation. Unfortunately, simplification often results in a loss of big picture knowledge and capability.<br><br>
 
 <b>So the challenge is: how to simplify ML without losing computing flexibility. </b>
  
-I turn 60 next year and will retire from teaching in a few years, I would however like to continue part-time working on tech solutions after retiring. 
+I turn 60 next year and will retire from teaching in a few years, I would, however like to continue working part-time on tech solutions after retiring. 
  
  
 <br><br><br><br><br><br><br><br>
@@ -149,14 +149,14 @@ I turn 60 next year and will retire from teaching in a few years, I would howeve
 
 About 1976 when I was in grade 8, I taught myself how to computer program on both the HP67 and HP97 Calculators. Since then, I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990s (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amounts for each node were summed and then fired if the sum was above zero). My NN's never worked but unfortunately only oscillated between classification. 
 
-Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching Robotics and Machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D Printable objects.
+Not until Tensorflow was released about 2015 was I able to start teaching ML. I have been teaching robotics and machine learning now for about 6 years, <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D printable objects.
 
-In 2016 I possibly made the first ever computer generated 3D printable object Machine Learning Program ?  
+In 2016 I possibly made the first computer generated 3D printable object using a machine learning program ?  
 <img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="150" /> 
 
 
 
-I also did a lot of educational work with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a><br><br>
+I also did a lot of teaching with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a><br><br>
 
 
 
@@ -166,15 +166,14 @@ I also did a lot of educational work with TensorflowJS <a href="https://hpssjell
 #### 3
 # Nano 33 Ble Sense with an OV767x Camera
 
-A few years ago my students chose to work with the Nano-33-Ble-Sense, and we purchased a $10 ov7670 camera to go with it.  
+A few years ago, my students chose to work with the Nano-33-Ble-Sense and we purchased a $10 OV7670 camera to go with it.<br>  
 This is my first successful OV7670 image
 
 <img src="https://user-images.githubusercontent.com/5605614/189017911-edacb75a-07ee-4ec7-a586-a6bdf7644412.png" width="300" /> 
 
+In September 2020 I helped problem solve the OV767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also got it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first step, that I believe helped the Arduino TinyML kit to work well.
 
-In September 2020 I helped problem solve the OV767x camera with the Nano-33-Ble-Sense <a href="https://github.com/arduino-libraries/Arduino_OV767X/issues/5"> here</a> and also got it working on EdgeImpulse <a href="https://forum.edgeimpulse.com/t/ov7670-cam-with-nano33ble-sense/917">here</a>. This was the first steps that I believe helped the Arduino TinyML kit to work well.
-
-This image is of my first clear 48x48 pixel image from the OV7670 camera inputed into an EdgeImpulse classification model.<br>  
+This image is of my first clear 48x48 pixel image from the OV7670 camera uploaded to EdgeImpulse for a classification model.<br>  
 <img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="48" /> 
 <br><br><br><br><br><br><br>
 <hr>
@@ -183,9 +182,9 @@ This image is of my first clear 48x48 pixel image from the OV7670 camera inputed
 #### 4
 # High School, Grad School partnerships
 
-I would be interested in partnering with grad students/Professors trying to simplify machine learning. I can provide students to test their ideas and possibly give feedback about the steps that were most confusing. In this presentation, I will suggest multiple paths for advanced use of TinyML. I will not have time to continue to research all of these ideas, but would help support others interested in them.
+I would be interested in partnering with grad studentsor professors trying to simplify machine learning. I can provide students to test their ideas and maybe give feedback about the steps that were most confusing. In this presentation, I will suggest multiple paths for advanced use of TinyML. I will not have time to continue to research all of these ideas, but would help support others interested in them.
 
-<b>This presentation is going to seems like I don't like the Arduino TinyML Kit with EdgeImpulse, I love it, I just need to push boundaries it's built into my personality</b>
+<b>This presentation is going to seem like I don't like the Arduino TinyML Kit with EdgeImpulse, I love it, I just need to push boundaries. It is built into my personality.</b>
  
  A few projects my students are working on:<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="200" /><img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="200" /> <img src="https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg" width="200" /> 
@@ -196,14 +195,14 @@ I would be interested in partnering with grad students/Professors trying to simp
 #### 5
 # TinyML: Multiple constraints (cost, computer power, electrical power, data security, connectivity...)
 
-We wish tinyML hardware cost less than a $1, did all training and analysis client-side, had 5G connectivity, ran on a coin battery for multiple years and had the computing power of a TPU, but that dream is not a reality.
+We wish tinyML hardware cost less than a dollar, did all training and analysis client-side, had 5G connectivity, ran on a coin battery for multiple years, and had the computing power of a TPU, but that dream is not a reality.
 The reality is we have constraints: In 2022 these look like: 
  
- For hardware, we use the $60.00 USD Arduino ML Kit (Arduino Nano 33 BLE Sense with a OV7675 Camera)<br>
- Which is a 3.3V Nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256 KB SRAM<br>
+ For hardware, we use the $60.00 USD Arduino ML Kit (Arduino Nano 33 BLE Sense with a OV7675 Camera),<br>
+ which is a 3.3V Nordic nRF52840 chip with 14 pins at 15 mA per pin, 64 MHz clock, 1MB flash memory and 256 KB SRAM<br>
  For connectivity, we can use BLE or Serial:UART/I2C/SPI<br> 
- For Machine Learning simplicity and cloud training we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a><br>
- EdgeImpulse makes it fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences)
+ For machine learning simplicity and cloud training, we use <a href="https://www.an edgeimpulse.com">edgeimpusle.com</a><br>
+ EdgeImpulse makes it fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences).
  
 <img src="https://user-images.githubusercontent.com/5605614/189539237-ae66c32b-ff13-4760-af43-04d789025db3.png" width="400" /> 
 <br><br><br><br><br><br><br>
@@ -212,44 +211,44 @@ The reality is we have constraints: In 2022 these look like:
 #### 6
 # Teaching Frustration: Loading EdgeImpulse Client
 
-Sometimes in a classroom computer lab that has locked-down software it is difficult to load the EdgeImpulse Client on an Arduino
+Sometimes, in a classroom computer lab that has locked-down software, it is difficult to load the EdgeImpulse Client on an Arduino
 
 # My solution 1 (Client): <br>
-Install the client software on my laptop and individually install it on the students Arduino's
+Install the client software on my laptop and individually install it on the students' Arduino's
 
 # My solution 2 (Client): <br>
-Use a cell phone for data collection (Motion, Sound, Vision) and build as normal on EdgeImpulse and then download the Arduino build for model installation on the device
+Use a cell phone for data collection (Motion, Sound, Vision) and build as normal on EdgeImpulse, then download the Arduino build for model installation on the device.
 
 # My solution 3 (Client): <br>
-Have students (or one person builds it and puts it on all the students hardware) the edgeimpulse client firmware from scratch. Nano 33 Ble <a href="https://github.com/edgeimpulse/firmware-arduino-nano-33-ble-sense">Github here</a>, Portenta <a href="https://github.com/edgeimpulse/firmware-arduino-portenta-h7">Github here</a>. This has a few extra issues such as long file names and storing a build.local.txt to your arduino hardware file that you then have to remove for normal arduino compiling.
+Have students (or one person builds it and puts it on all the students' hardware) the edgeimpulse client firmware from scratch. Nano 33 Ble <a href="https://github.com/edgeimpulse/firmware-arduino-nano-33-ble-sense">Github here</a>, Portenta <a href="https://github.com/edgeimpulse/firmware-arduino-portenta-h7">Github here</a>. This has a few extra issues such as long file names and storing a build.local.txt to your arduino hardware file that you then have to remove for normal arduino compiling.
 
 # My solution 4 (Client): <br>
-Create a .hex or .bin file of the client and force installing it using Arduino installation tools. This seems to be frowned upon from the Arduino Community but seems a very sensible solution to me. I think I have done it before but it was to confusing to teach to my students.
+Create a .hex or .bin file of the client and force installing it using Arduino installation tools. This seems to be frowned upon by the Arduino community but seems like a very sensible solution to me. I think I have done it before, but it was to confusing to teach to my students.
 
-This year I hope NodeJS is installed on my new computers. 
+This year, I hope NodeJS is installed on my new computers. 
 <hr>
 
 #### 7
 # Teaching Frustration: EdgeImpulse model builds near 100% success, reality <30% succcess
 
-This is very common, that students build a model that has a very high success rate on EdgeImpulse with the student collected data, but when the student tests it in a real environment it performs very poorly or not at all. This can also have several reasons.
+It is common for students to build a model that has a very high success rate on EdgeImpulse with the student's collected data, but when the student tests it in a real environment it performs very poorly or not at all. This can also have several reasons.
 
 # My solution 1 (Success): <br>
-Sometimes the software changes the students make to test their model, has errors, this is fixable but needs the instructor to have a very good knowledge of coding.
+Sometimes the software changes that students make to test their model, have errors. This is fixable but needs the instructor to have a very good knowledge of coding.
 
 # My solution 2 (Success): <br>
-Great teaching opportunity for Machine Learning, with guidance the students learn how to make a better model using better more realistic data, or just a better thought out collection of data.
+A great teaching opportunity for understanding machine learning, with guidance the students learn how to make a better model using better more realistic data, or just better thought out data collection.
 
 # My solution 3 (Success): <br>
-For vision models switching the concept from 3D to 2D often helps. So the Camera is positioned in a way that the incoming data is always showing the same face. (Camera above a conveyor belt). This often simplify's vision data colletion.
+For vision models, switching the concept from 3D to 2D often helps. So the camera is positioned in a way that the incoming data is always showing the same face. (Camera above a conveyor belt). This often simplifies vision data colletion.
 
 # My solution 4 (Success): <br>
-Students often have difficulty realizing that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also a good ML learning experience. More on solutions for this later.
+Students often have difficulty realising that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also a good ML learning experience. More on solutions for this later.
 <hr>
 
 #### 8
 # Teaching Frustration:  Edgeimpulse C++ compile
-In a teaching computer lab sometimes the GNU C++ environment is not well setup. Using GNU C++ is not really a strength of mine since I typically use the Arduino IDE or Platform.io, but occasionally some code would be better to compile using C++.
+In a teaching computer lab sometimes the GNU C++ environment is not well setup. Using GNU C++ is not really a strength of mine since I typically use the Arduino IDE or Platform.io, but occasionally some code would be better compiled using C++.
 
 # My solution 1 (C++): <br>
 <a href="https://www.gitpod.io/">Gitpod</a> is an amazing browser based docker container giving 50 hours a month for free student use. The containers save but are only active for 10-30 minutes after the last entered command. I often test Github node projects using Gitpod by simply inserting gitpod.io/#  in front of the normal github URL.<br>
@@ -269,7 +268,7 @@ This is not necessarily to do with machine learning but whenever students start 
 Use the expensive but more powerful ($105 USD) Arduino PortentaH7 with 28 pins and potentially up to 160 pins<br>
 <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="200" /> <img src="portenta320x320-first.gif" width="200" /> 
  
-Note: I am working on a PCB to allow access to all 160 pins without using the Arduino Breakout Board ($25 USD). Note: The breakout board has the pins organized by concept, my board has the pins organized by the High Density connectors J1 and J2
+Note: I am working on a PCB to allow access to all 160 pins without using the Arduino Breakout Board ($25 USD). Note: The breakout board has the pins organised by concept, my board has the pins organised by the High Density connectors J1 and J2
   
 <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="150" />  <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="150" /> <img src="https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg" width="150" /> 
  
@@ -317,7 +316,7 @@ Excellent video on making a PCB
 Note: The $6000 <a href="https://www.voltera.io/">Voltera.io </a> is a possible educational solution for at school PCB production.<img src="https://user-images.githubusercontent.com/5605614/176255114-435ef8c9-1989-4761-ae3b-daebea51492f.png" width="50" /> <br>
 
 # My Solution #2 (Cost)
-This is only cheaper since most students have a cell phone! I think we could do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller like the Nano 33 Ble Sense or the $5 Seeedstudio XIAO. This has lots of teaching portential and is my main research area at present. Edgeimpulse even outputs a WASM for the web.
+This is only cheaper since most students have a cell phone! I think we could do the machine learning on a cell phone using TensorflowJS and then use UsbSerial to connect any microcontroller like the Nano 33 Ble Sense or the $5 Seeedstudio XIAO. This has lots of teaching potential and is my main research area at present. Edgeimpulse even outputs a WASM for the web.
 <hr>
 
 #### 12 
@@ -392,7 +391,7 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
 #### 16
 # Summary
  
-<a href="https://www.edgeimpulse.com/">edgeimpulse.com<a/> and the Arduino ML kit are a great way to easily get students started in TinyML, but how to continue for advanced students? I hope to partner with a few Prof's to try some learning extensions. Here are a few of my relevant references:
+<a href="https://www.edgeimpulse.com/">Edgeimpulse.com<a/> and the Arduino ML kit are a great way to easily get students started in TinyML, but how to continue for advanced students? I hope to partner with a few professors to try some learning extensions. Here are a few of my relevant references:
  
  My Robotics and ML course <a href="https://github.com/hpssjellis/maker100">Maker100</a><br>
  My Portenta MBED library called the <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">portenta-pro-community-solutions</a> which will have some Nano 33 Ble Sense working code<br>
