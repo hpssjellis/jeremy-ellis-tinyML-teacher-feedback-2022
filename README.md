@@ -11,7 +11,7 @@ Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher
 
 This Github Repository at  [https://github.com/hpssjellis/jeremy-ellis-tinyML-teacher-feedback-2022](https://github.com/hpssjellis/jeremy-ellis-tinyML-teacher-feedback-2022)
 
- To make your own version of this webApp just copy this readme file in your own Gitpages activated repository and link to the readme.md file as a webpage.
+ To make your own version of this webApp just copy this readme file in your own Gitpages activated repository and link to the README.md file as a webpage.
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="25" >
 
