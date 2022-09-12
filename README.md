@@ -408,7 +408,7 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
 #### 17
 # Summary Mind Map of the topics today.
 
- <img src="https://user-images.githubusercontent.com/5605614/189587609-765bbd4b-404c-462c-ae67-e09e28532257.png" width="100%" /> 
+ <img src="https://user-images.githubusercontent.com/5605614/189587609-765bbd4b-404c-462c-ae67-e09e28532257.png" width="900" /> 
 
  <hr>
  
