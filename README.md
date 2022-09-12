@@ -212,7 +212,7 @@ The reality is we have constraints: In 2022 these look like:
 #### 6
 # Teaching Frustration: Loading EdgeImpulse Client
 
-Sometimes in a classroom computer lab that has software lock-down without NodeJS it is difficult to load the EdgeImpulse Client on an Arduino
+Sometimes in a classroom computer lab that has locked-down software it is difficult to load the EdgeImpulse Client on an Arduino
 
 # My solution 1 (Client): <br>
 Install the client software on my laptop and individually install it on the students Arduino's
