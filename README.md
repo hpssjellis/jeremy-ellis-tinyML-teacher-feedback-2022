@@ -13,7 +13,7 @@ This Github Repository at  [https://github.com/hpssjellis/jeremy-ellis-tinyML-te
 
  To make your own version of this webApp just copy this readme file in your own Gitpages activated repository and link to the readme.md file as a webpage.
 
-Number of Slides: <input type="text" id="myCountLinks" size="6" value="17" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="18" >
+Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="25" >
 
 <div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div>  <br>
 
@@ -402,14 +402,19 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
  Image of the PortentaH7 ( with LoRa Vision shield attached behind it) running a 72 ms FOMO vision model with a 128x128 WaveShare 16 bit Grayscale OLED<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="200" /> 
 
+
+<br><br><br> 
+<hr> 
+#### 17
 # Summary Mind Map of the topics today.
 
-![image](https://user-images.githubusercontent.com/5605614/189542714-880b0e49-2df3-452f-b362-959abb7cd507.png)
+ <img src="https://user-images.githubusercontent.com/5605614/189587609-765bbd4b-404c-462c-ae67-e09e28532257.png" width="100%" /> 
+
  <hr>
  
  
 
-#### 17
+#### 18
 # End of presentation
 
 <a href="#top">Top of page</a>
