@@ -282,7 +282,6 @@ Example of 4 x $5 XIAO all running tensorflow Sine Hello World program all conne
 #### 10
 # Teaching Frustration: BLE low power connectivity
 For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must know or discover hash numbers for everything you wish to do.
-Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
  
 # My Solution 1 (BLE)
 The <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE?pr_prod_strat=copurchase&pr_rec_id=c6455b41f&pr_rec_pid=6544223535311&pr_ref_pid=6544099082447&pr_seq=uniform">PortentaH7 LoRa Vision Shield </a> ($69 USD USD)
