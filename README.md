@@ -3,7 +3,7 @@
 
 
 
-##### version 0.3.1-8
+##### version 0.3.2-9
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -11,7 +11,7 @@ Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher
 
 This Github Repository at  [https://github.com/hpssjellis/jeremy-ellis-tinyML-teacher-feedback-2022](https://github.com/hpssjellis/jeremy-ellis-tinyML-teacher-feedback-2022)
 
- To make your own version of this webApp just copy this readme file in your own Gitpages activated repository and link to the README.md file as a webpage.
+ To make your own version of this webApp just copy this README.md file in your own Gitpages activated repository (makes it act as a webpage) and link to the README.md file as the main webpage (it replaces an index.html file).
 
 Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="30" >
 
@@ -125,12 +125,11 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Se
 # Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022 
 Follow with this link <a href="https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/">hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/</a><br>
 I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>, <a href="https://www.youtube.com/c/Rocksetta/videos"> Youtube Rocksetta Playlist</a><br>
-I feel, I have one gift, and that is the ability to teach complex things, that I understand, to others! The problem is getting me to understand something!<br> 
-I am still a bit stuck on Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
+I feel, I have a gift, and that is the academic creativity and the ability to teach complex things, that I understand, to others! The problem is getting me to understand the complex thing! I am still a bit stuck on learning Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
-I strongly feel university undergrads of all disciplines should have some form of hands on Machine Learning and robotics before graduation. Unfortunately, simplification often results in a loss of big picture knowledge and capability.<br><br>
+I strongly feel university undergrads of all disciplines should have some form of hands on machine learning and robotics before graduation. Unfortunately, simplification often results in a loss of big picture knowledge and capability.<br><br>
 
 <b>So the challenge is: how to simplify ML without losing computing flexibility. </b>
  
@@ -336,7 +335,7 @@ Image of the Nano33 Ble Sense showing all raw sensor data, shifted vertically to
  <hr>
 
 #### 13 
-# Teaching Frustration: Hard to teach Keras Machine Learning using EdgeImpulse
+# Teaching Frustration: It is hard to teach Keras Machine Learning using EdgeImpulse
 
 Don't get me wrong, EdgeImpulse is amazing for simplifying machine learning. I can teach an entire class of grade 10's in 40 minutes how to make a vision classification model to classify a pen from unknowns and they actually understand how to do it, but making your own Keras models that work well with complete Keras flexibility is a bit harder. 
 
