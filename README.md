@@ -124,8 +124,8 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Se
 #### 1
 # Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022 
 Follow with this link <a href="https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/">hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/</a><br>
-I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>, <a href="https://www.youtube.com/c/Rocksetta/videos"> Youtube Rocksetta Playlist</a><br>
-I feel, I have a gift, and that is the academic creativity and the ability to teach complex things, that I understand, to others! The problem is getting me to understand the complex thing! I am still a bit stuck on learning Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
+I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>, <a href="https://www.youtube.com/c/Rocksetta/videos"> Youtube Rocksetta Playlist</a><br><br>
+I have a gift for academic creativity and the ability to teach complex things, that I understand, to others! The problem is getting me to understand the complex thing! I am still a bit stuck on learning Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
@@ -136,7 +136,7 @@ I strongly feel university undergrads of all disciplines should have some form o
 I turn 60 next year and will retire from teaching in a few years, I would, however like to continue working part-time on tech solutions after retiring. 
  
  
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <hr>
 
 #### 2 
