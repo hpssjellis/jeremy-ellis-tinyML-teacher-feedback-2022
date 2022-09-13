@@ -250,7 +250,7 @@ Students often have difficulty realising that for the problem they are trying to
 In a teaching computer lab sometimes the GNU C++ environment is not well setup. Using GNU C++ is not really a strength of mine since I typically use the Arduino IDE or Platform.io, but occasionally some code would be better compiled using C++.
 
 # My solution 1 (C++): <br>
-<a href="https://www.gitpod.io/">Gitpod</a> is an amazing browser based docker container giving 50 hours a month for free student use. The containers save but are only active for 10-30 minutes after the last entered command. I often test Github node projects using Gitpod by simply inserting gitpod.io/#  in front of the normal github URL.<br>
+<a href="https://www.gitpod.io/">Gitpod</a> is an amazing browser based docker container giving 50 hours a month for free student use. The containers save but are only active for 10-30 minutes after the last entered command. I often test Github node projects using Gitpod by simply inserting <pre>gitpod.io/#</pre>  in front of the normal github URL.<br>
 For this solution I tried to make a Gitpod that loads all the development environments that edgeImpulse uses. It was only partially successful and GNU C++ is a bit advanced for my average High School student.<br>
 This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and may not have survived updates to edgeimpulse. <a href="https://github.com/hpssjellis/my-gitpod-of-edge-impulse">my-gitpod-of-edge-impulse</a>
 
