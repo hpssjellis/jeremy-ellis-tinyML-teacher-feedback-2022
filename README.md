@@ -397,7 +397,8 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
  My Twitter feed for easy communication <a href="https://twitter.com/rocksetta">@rocksetta</a><br>
  
  Image of the PortentaH7 ( with LoRa Vision shield attached behind it) running a 72 ms FOMO vision model with a 128x128 WaveShare 16 bit Grayscale OLED<br>
- <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="200" /> 
+ <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="300" />  <img src="https://user-images.githubusercontent.com/5605614/189810188-c209fc84-a711-4b68-a495-ba3feb6af9ec.png" width="300" /> 
+
 
 
 <br><br><br> 
