@@ -254,8 +254,9 @@ In a teaching computer lab sometimes the GNU C++ environment is not well setup. 
 For this solution I tried to make a Gitpod that loads all the development environments that edgeImpulse uses. It was only partially successful and GNU C++ is a bit advanced for my average High School student.<br>
 This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and may not have survived updates to edgeimpulse. <a href="https://github.com/hpssjellis/my-gitpod-of-edge-impulse">my-gitpod-of-edge-impulse</a>
 
+<img src="https://user-images.githubusercontent.com/5605614/189805421-43ec705c-c85a-4e01-9f09-15eeb3225507.png" width="300" />
 
- <br><br><br> <br><br><br><br><br><br>
+ <br><br><br> <br>
  <hr>
 
 #### 9
