@@ -262,7 +262,7 @@ This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and 
 #### 9
 # Teaching Frustration:  not enough pins!
 
-This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. 
+This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. The Arduino ML kits have 14 avalable pins.
  
 # My solution 1 (Pins): <br>
 Use the expensive but more powerful ($105 USD) Arduino PortentaH7 with 28 pins and potentially up to 160 pins<br>
