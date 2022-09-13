@@ -265,10 +265,10 @@ This is my Gitpod of the edgeimpulse dev environment. It is fairly advanced and 
 This is not necessarily to do with machine learning but whenever students start working on their own robotics projects they always want a few more pins to allow a few more servo motors, LED's, sensors etc for their final project. The Arduino ML kits have 14 avalable pins.
  
 # My solution 1 (Pins): <br>
-Use the expensive but more powerful ($105 USD) Arduino PortentaH7 with 28 pins and potentially up to 160 pins<br>
+Use the expensive but more powerful ($113.90 USD) <a href="https://store-usa.arduino.cc/products/portenta-h7?selectedStore=us">Arduino PortentaH7</a> with 28 pins and potentially up to 160 pins<br>
 <img src="https://user-images.githubusercontent.com/5605614/189020875-c7431f79-9102-471d-84c2-6b2657078268.png" width="200" /> <img src="portenta320x320-first.gif" width="200" /> 
  
-Note: I am working on a PCB to allow access to all 160 pins without using the Arduino Breakout Board ($25 USD). Note: The breakout board has the pins organised by concept, my board has the pins organised by the High Density connectors J1 and J2
+Note: I am working on a PCB to allow access to all 160 pins without using the <a href="https://store-usa.arduino.cc/products/arduino-portenta-breakout?pr_prod_strat=copurchase&pr_rec_id=c6455b41f&pr_rec_pid=6545910694095&pr_ref_pid=6544099082447&pr_seq=uniform"> Arduino Breakout Board</a> ($55 USD). Note: The breakout board has the pins organised by concept, my board has the pins organised by the High Density connectors J1 and J2
   
 <img src="https://user-images.githubusercontent.com/5605614/189260205-6059bafb-1f3b-4099-ae65-8ad85cd722f3.png" width="150" />  <img src="https://user-images.githubusercontent.com/5605614/189260212-60662463-21f2-4779-ac27-2879ee6fad51.png" width="150" /> <img src="https://user-images.githubusercontent.com/5605614/189260224-b0aee2be-3a41-4a42-ad4d-3afc393123e9.jpg" width="150" /> 
  
@@ -285,7 +285,7 @@ For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must k
 Note: Cellular and WiFi typically use a lot of electrical power, but they are both still a viable solution for microcontrollers with large batteries or electrically connected.
  
 # My Solution 1 (BLE)
-The PortentaH7 LoRa Vision Shield (~ $65 USD)
+The <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE?pr_prod_strat=copurchase&pr_rec_id=c6455b41f&pr_rec_pid=6544223535311&pr_ref_pid=6544099082447&pr_seq=uniform">PortentaH7 LoRa Vision Shield </a> ($69 USD USD)
 I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
 Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
 
