@@ -1,5 +1,5 @@
 
-### jeremy-ellis-tinyML-teacher-feedback-2022
+### Jeremy Ellis TinyML Teacher Feedback 2022
 
 
 
