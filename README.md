@@ -125,7 +125,7 @@ Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Se
 # Intro: Jeremy Ellis (@rocksetta) TinyML Teacher Feedback 2022 
 Follow with this link <a href="https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/">hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/</a><br>
 I am Jeremy Ellis, Twitter <a href="https://twitter.com/rocksetta">@rocksetta</a>, <a href="https://github.com/hpssjellis">Github Profile</a>, <a href="https://rocksetta.com/">www.rocksetta.com</a>, <a href="https://www.youtube.com/c/Rocksetta/videos"> Youtube Rocksetta Playlist</a><br><br>
-I have a gift for academic creativity and the ability to teach complex things to young people, that I understand! The problem is getting me to understand the complex things! I am still a bit stuck on learning Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
+I have a gift for academic creativity and the ability to teach complex things, that I understand, to young people! The problem is getting me to understand the complex things! I am still a bit stuck on learning Quantum Computing, my Github about Quantum is <a href="https://github.com/hpssjellis/my-examples-for-quantum-computing">here.</a>
 
 I presently teach: 3D Printing, Animation, Game Development (Coding) and Robotics with Machine Learning
 
