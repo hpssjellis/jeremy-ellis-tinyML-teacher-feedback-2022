@@ -372,7 +372,7 @@ Use TensorflowJS and WebSerial, load data completely client side. I am working o
 # Teaching Frustration: relying on any cloud server. (Typically a good cloud server is purchased after a few years and the free component is removed!)
 This probably will not happen with Edge Impulse, but if it does it can be devastating to your course.<br>
 
-Example: I spent about 2 years designing Android browser capable tools on Cloud9, after the AWS purchase all my work was no longer free and worse was deprecated.<br>
+Example: July 14, 2016 I spent had about 2 years designing Android tools for the browser on Cloud9, after the AWS purchase all my work was no longer free and worse was deprecated.<br>
 <a href="https://techcrunch.com/2016/07/14/amazons-aws-buys-cloud9-to-add-more-development-tools-to-its-web-services-stack"><img src="https://user-images.githubusercontent.com/5605614/189539603-1339cb02-162c-4910-8969-4ed4b6697322.png" width="300" />  </a>
 
 
