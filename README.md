@@ -285,8 +285,7 @@ For the Nano 33 Ble Sense in my opinion BLE is frustrating to code as you must k
  
 # My Solution 1 (BLE)
 The <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE?pr_prod_strat=copurchase&pr_rec_id=c6455b41f&pr_rec_pid=6544223535311&pr_ref_pid=6544099082447&pr_seq=uniform">PortentaH7 LoRa Vision Shield </a> ($69 USD USD)
-I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. <br>
-Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
+I think LoRa and LoRaWan connectivity makes a lot of sense for any low power application. Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
 
 The <a herf="https://explorer.helium.com/">Helium LoRaWan Coverage Map</a> for Spain<br>
 <img src="https://user-images.githubusercontent.com/5605614/189534669-b3a0e8df-b1b2-4085-8666-9dff683903ad.png" width="200" /> 
@@ -358,7 +357,7 @@ Just saw <a href="https://github.com/Bobingstern/MicroFlow"><b>MicroFlow</b></a>
 <hr>
 
 #### 14
-# Teaching Frustration: Students should not be loading their faces onto a Cloud Server for security issues
+# Teaching Frustration: Students should not be loading their faces onto a Cloud Server for youth privacy issues
 
 My Solution 1 (Security)
 Use TensorflowJS and WebSerial, load data completely client side. I am working on this solution.
