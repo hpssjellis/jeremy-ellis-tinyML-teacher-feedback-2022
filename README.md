@@ -378,6 +378,7 @@ My Solution 2 (Cloud)
 Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/tree/master/m09-Tensoflow">here</a>), load data completely client side and transfer the model to the Nano 33 Ble Sense or other microcontroller. If TensorflowLite stays deprecated this is not a great idea. Here is a backed up TFlite library: [Arduino_TensorFlowLite.zip](Arduino_TensorFlowLite.zip)
 <br><br><br> 
 <hr> 
+
 #### 16
 # Summary
  
@@ -388,7 +389,7 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
  My <a href="https://github.com/hpssjellis/maker101">Maker101</a> repository that addresses many of the ideas mentioned today.<br>
  My Twitter feed for easy communication <a href="https://twitter.com/rocksetta">@rocksetta</a><br>
  
- Image of the PortentaH7 ( with LoRa Vision shield attached behind it) running a 72 ms FOMO vision model with a 128x128 WaveShare 16 bit Grayscale OLED, and the Portenta Pro Community Solutions library of MBED examples<br>
+ Image of the PortentaH7 ( with LoRa Vision shield attached behind it) running a 72 ms FOMO vision model with a 128x128 WaveShare 16 bit Grayscale OLED, and my <a href="https://github.com/hpssjellis/portenta-pro-community-solutions">Portenta Pro Community Solutions</a> library of MBED examples<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260249-f8164979-f697-40b8-9e7a-d29934f28bb2.jpg" width="250" />  <img src="https://user-images.githubusercontent.com/5605614/189810188-c209fc84-a711-4b68-a495-ba3feb6af9ec.png" width="400" /> 
 
 
