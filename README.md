@@ -397,7 +397,7 @@ Use TensorflowJS and TensorflowLite (or my version <a href="https://github.com/h
 <br><br><br> 
 <hr> 
 #### 17
-# Summary Mind Map of the topics today.
+# Summary Web of the topics covered today.
 
  <img src="https://user-images.githubusercontent.com/5605614/189808930-99d614a7-43bf-4129-bf23-23ebd05f1372.png" width="600" /> 
 
