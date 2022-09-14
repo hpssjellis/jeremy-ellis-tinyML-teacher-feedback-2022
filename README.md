@@ -220,20 +220,20 @@ This year, I hope NodeJS is installed on my new computers.
 <hr>
 
 #### 7
-# Teaching Frustration: EdgeImpulse model builds near 100% success, reality <30% success
+# Teaching Frustration: EdgeImpulse model builds near 100% success, reality < 30% success
 
 It is common for students to build a model that has a very high success rate on EdgeImpulse with the student's collected data, but when the student tests it in a real environment it performs poorly or not at all. This can also have several reasons.
 
-# My solution 1 (Success): <br>
+# My solution 1 (Reality): <br>
 Sometimes the students software changes to test their model have bugs in their code. This is fixable but needs the instructor to have a very good knowledge of coding.
 
-# My solution 2 (Success): <br>
+# My solution 2 (Reality): <br>
 A great teaching opportunity for understanding machine learning. With guidance the students learn how to make a better model using better, more realistic data, or just better thought out data collection.
 
-# My solution 3 (Success): <br>
+# My solution 3 (Reality): <br>
 For vision models, switching the concept from 3D to 2D often helps. So the camera is positioned in a way that the incoming data is always showing the same face. (Camera above a conveyor belt). This often simplifies vision data collection.
 
-# My solution 4 (Success): <br>
+# My solution 4 (Reality): <br>
 Students often have difficulty realising that for the problem they are trying to solve the Arduino ML kit does not have the computing power to solve it at the accuracy required. This is also a good ML learning experience. More on solutions for this later.
 <hr>
 
