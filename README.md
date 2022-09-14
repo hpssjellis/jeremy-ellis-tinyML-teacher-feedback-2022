@@ -165,7 +165,7 @@ In September 2020, I helped problem solve the OV767x camera with the Nano-33-Ble
 
 This image is of my first clear 48x48 pixel image from the OV7670 camera uploaded to EdgeImpulse for a classification model.<br>  
 <img src="https://user-images.githubusercontent.com/5605614/189018161-b31d90a6-d5b8-43b6-a70d-80601f526e94.png" width="48" /> 
-<br><br><br><br><br><br><br>
+<br><br><br>
 <hr>
 
 
@@ -180,7 +180,7 @@ I would be interested in partnering with grad students or professors trying to s
  A few Robotics and ML projects my students are working on:<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="200" /><img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="200" /> <img src="https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg" width="200" /> 
 
-<br><br><br><br><br>
+<br><br>
 <hr>
 
 #### 5
@@ -196,7 +196,7 @@ The reality is we have constraints: In 2022 these look like:
  EdgeImpulse makes it fairly easy to do: motion, sound, vision (classification and FOMO) and also regression (for size) and anomaly detection (for differences).
  
 <img src="https://user-images.githubusercontent.com/5605614/189539237-ae66c32b-ff13-4760-af43-04d789025db3.png" width="400" /> 
-<br><br><br><br><br><br><br>
+<br><br><br><br>
 <hr>
 
 #### 6
@@ -277,10 +277,10 @@ For the Nano 33 Ble Sense (in my opinion) BLE is frustrating to code as you must
  
 # My Solution 1 (BLE)
 The <a href="https://store-usa.arduino.cc/products/arduino-portenta-vision-shield-lora%C2%AE?pr_prod_strat=copurchase&pr_rec_id=c6455b41f&pr_rec_pid=6544223535311&pr_ref_pid=6544099082447&pr_seq=uniform">PortentaH7 LoRa Vision Shield </a> ($69 USD USD)
-I think LoRa and LoRaWan connectivity makes sense for any low power application. Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
+I think LoRa and LoRaWan connectivity makes sense for any low power application. Note: The <a herf="https://explorer.helium.com/">Helium</a> LoRaWan network is a solid solution especially in North America and Europe. <a href="https://docs.helium.com/use-the-network/devices/development/arduino/lora-vision-shield/arduino/">Here</a> is my writeup about using the Portenta with Helium and <a href="https://io.adafruit.com/">adafruit.io</a> 
 
 The <a herf="https://explorer.helium.com/">Helium LoRaWan Coverage Map</a> for Spain<br>
-<img src="https://user-images.githubusercontent.com/5605614/189534669-b3a0e8df-b1b2-4085-8666-9dff683903ad.png" width="200" /> 
+<img src="https://user-images.githubusercontent.com/5605614/189534669-b3a0e8df-b1b2-4085-8666-9dff683903ad.png" width="150" /> 
 
 # My Solution 2 (BLE)
 If electrical power is not an issue, why not use WiFi or Ethernet? The Portenta can have both. They allow a large data bandwith. 
