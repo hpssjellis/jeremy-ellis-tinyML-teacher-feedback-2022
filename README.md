@@ -133,8 +133,7 @@ I strongly feel university undergrads of all disciplines should have some form o
 
 <b>So the challenge is how to simplify ML without losing computing flexibility. </b>
  
- 
-<br><br><br><br><br>
+<br><br><br>
 <hr>
 
 #### 2 
@@ -143,21 +142,15 @@ I strongly feel university undergrads of all disciplines should have some form o
 <img src="https://user-images.githubusercontent.com/5605614/176367428-196bd8d2-e10d-4030-9de0-09f150028431.png" width="160" /> 
 <img src="https://user-images.githubusercontent.com/5605614/189508144-36c33186-8607-40a0-91d6-0e90586df633.png" width="200" /> 
 
-
 About 1976, when I was in Grade 8, I taught myself how to computer program on both the HP67 and HP97 Calculators. Since then, I have had no formal machine learning training, but was writing neural networks using Pascal in the early 1990s (simple multi layer array "nodes", holding an integer between -1 and 1, interconnected to all nodes of the next layer, all incoming amounts for each node were summed and then fired if the sum was above zero). My NN's never worked but unfortunately only oscillated between classification. 
 
 Not until Tensorflow was released about 2015 was I able to teaching ML. I have been teaching robotics and machine learning now for about 6 years. <a href="https://www.rocksetta.com/tensorflow-teacher/3d-print-tensorflow/">Here</a> is a 2016 RNN model I made that self-generated multiple 3D printable objects.
 I also did a lot of teaching with TensorflowJS <a href="https://hpssjellis.github.io/beginner-tensorflowjs-examples-in-javascript/">here</a><br><br>
 
-In 2016, I possibly made the first computer generated 3D printable object using a machine learning program!  
+In 2016, I may have made the first computer generated 3D printable object using a machine learning program!  
 <img src="https://user-images.githubusercontent.com/5605614/189014529-cb8ebd7e-7023-4471-aec9-141d03e535b1.png" width="150" /> 
 
 
-
-
-
-
-<br><br><br>
 <hr>
 
 #### 3
@@ -179,12 +172,12 @@ This image is of my first clear 48x48 pixel image from the OV7670 camera uploade
 #### 4
 # High School, Grad School partnerships
 
-I would be interested in partnering with grad students or professors trying to simplify machine learning. I can provide students to test their ideas and maybe give feedback about the steps that were most confusing. In this presentation, I will suggest multiple paths for advanced use of TinyML. I will not have time to continue to research all of these ideas, but would help support others interested in them.  I turn 60 next year and will retire from teaching in a few years. I would like to continue working part time on tech solutions after retiring. 
+I would be interested in partnering with grad students or professors trying to simplify machine learning. I can provide students to test their ideas and maybe give feedback about the steps that were most confusing. In this presentation, I will suggest multiple paths for advanced use of TinyML. I will not have time to continue to research all of these ideas, but would help support others interested in them.  I turn 60 next year and will retire from teaching in a few years. I would like to continue working part time on tech solutions after retiring if anyone is hiring. 
 
 
 <b>This presentation is going to seem like I don't like the Arduino TinyML Kit with EdgeImpulse, I love it, I just need to push tech boundaries. It is part of my personality.</b>
  
- A few projects my students are working on:<br>
+ A few Robotics and ML projects my students are working on:<br>
  <img src="https://user-images.githubusercontent.com/5605614/189260231-a3271b84-45b2-487b-a377-82e91cbe0665.jpg" width="200" /><img src="https://user-images.githubusercontent.com/5605614/189260239-b712fd21-b9f8-4ac7-afae-46c5220c2e08.jpg" width="200" /> <img src="https://user-images.githubusercontent.com/5605614/189260245-b4bcf40a-5b44-42a7-923f-7d027bb10bf0.jpg" width="200" /> 
 
 <br><br><br><br><br>
