@@ -3,7 +3,7 @@
 
 
 
-##### version 0.3.2-9
+##### version 1.0.0-10
 
 
 Demo of this Github at [https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/](https://hpssjellis.github.io/jeremy-ellis-tinyML-teacher-feedback-2022/)
@@ -13,7 +13,7 @@ This Github Repository at  [https://github.com/hpssjellis/jeremy-ellis-tinyML-te
 
  To make your own version of this web-app just copy this README.md file in your own Gitpages activated repository (makes it act as a webpage) and link to the README.md file as the main webpage (it replaces an index.html file).
 
-Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="30" >
+Number of Slides: <input type="text" id="myCountLinks" size="6" value="18" >, Seconds per Slide: <input type="text" id="myCountMax" size="6" value="20" >
 
 <div id="myNumSlides" style=" position:sticky; top:0px; left:20px; height:25px; "> ...</div>  <br>
 
